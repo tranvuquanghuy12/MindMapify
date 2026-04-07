@@ -11,6 +11,9 @@
 [![BERT](https://img.shields.io/badge/NLP_Engine-BERT_Embeddings-fdc500.svg)](https://huggingface.co/)
 [![DALL-E 3](https://img.shields.io/badge/GenAI-DALL--E_3-black.svg)](https://openai.com/)
 
+<br><br>
+<img src="asset/demo.png" alt="MindMapify Demo Preview" width="90%" style="border-radius: 8px;">
+
 </div>
 
 ---
