@@ -1,0 +1,8399 @@
+{
+  "nodes": [
+    {
+      "id": "neural network",
+      "label": "Neural Network",
+      "type": "noun",
+      "pronunciation": "/ˈnjʊə.rəl ˈnet.wɜːk/",
+      "definition_vn": "Mạng thần kinh nhân tạo",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "deep learning",
+      "label": "Deep Learning",
+      "type": "noun",
+      "pronunciation": "/ˌdiːp ˈlɜː.nɪŋ/",
+      "definition_vn": "Học sâu",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "machine learning",
+      "label": "Machine Learning",
+      "type": "noun",
+      "pronunciation": "/məˈʃiːn ˈlɜː.nɪŋ/",
+      "definition_vn": "Học máy",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "large language model",
+      "label": "Large Language Model",
+      "type": "noun",
+      "pronunciation": "/lɑːdʒ ˈlæŋ.ɡwɪdʒ ˈmɒd.əl/",
+      "definition_vn": "Mô hình ngôn ngữ lớn",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "prompt engineering",
+      "label": "Prompt Engineering",
+      "type": "noun",
+      "pronunciation": "/prɒmpt ˌen.dʒɪˈnɪə.rɪŋ/",
+      "definition_vn": "Kỹ thuật câu lệnh",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "algorithm",
+      "label": "Algorithm",
+      "type": "noun",
+      "pronunciation": "/ˈæl.ɡə.rɪ.ðəm/",
+      "definition_vn": "Thuật toán",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "hello",
+      "label": "Hello",
+      "type": "exclamation",
+      "pronunciation": "/həˈləʊ/",
+      "definition_vn": "Xin chào",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "time",
+      "label": "Time",
+      "type": "noun",
+      "pronunciation": "/taɪm/",
+      "definition_vn": "Thời gian",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "year",
+      "label": "Year",
+      "type": "noun",
+      "pronunciation": "/jɪər/",
+      "definition_vn": "Năm",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "people",
+      "label": "People",
+      "type": "noun",
+      "pronunciation": "/ˈpiː.pəl/",
+      "definition_vn": "Người",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "way",
+      "label": "Way",
+      "type": "noun",
+      "pronunciation": "/weɪ/",
+      "definition_vn": "Cách, đường đi",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "day",
+      "label": "Day",
+      "type": "noun",
+      "pronunciation": "/deɪ/",
+      "definition_vn": "Ngày",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "man",
+      "label": "Man",
+      "type": "noun",
+      "pronunciation": "/mæn/",
+      "definition_vn": "Đàn ông",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "thing",
+      "label": "Thing",
+      "type": "noun",
+      "pronunciation": "/θɪŋ/",
+      "definition_vn": "Vật, thứ",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "woman",
+      "label": "Woman",
+      "type": "noun",
+      "pronunciation": "/ˈwʊm.ən/",
+      "definition_vn": "Phụ nữ",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "life",
+      "label": "Life",
+      "type": "noun",
+      "pronunciation": "/laɪf/",
+      "definition_vn": "Cuộc sống",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "child",
+      "label": "Child",
+      "type": "noun",
+      "pronunciation": "/tʃaɪld/",
+      "definition_vn": "Trẻ con",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "world",
+      "label": "World",
+      "type": "noun",
+      "pronunciation": "/wɜːld/",
+      "definition_vn": "Thế giới",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "school",
+      "label": "School",
+      "type": "noun",
+      "pronunciation": "/skuːl/",
+      "definition_vn": "Trường học",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "state",
+      "label": "State",
+      "type": "noun",
+      "pronunciation": "/steɪt/",
+      "definition_vn": "Trạng thái, bang",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "family",
+      "label": "Family",
+      "type": "noun",
+      "pronunciation": "/ˈfæm.əl.i/",
+      "definition_vn": "Gia đình",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "student",
+      "label": "Student",
+      "type": "noun",
+      "pronunciation": "/ˈstjuː.dənt/",
+      "definition_vn": "Sinh viên, học sinh",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "group",
+      "label": "Group",
+      "type": "noun",
+      "pronunciation": "/ɡruːp/",
+      "definition_vn": "Nhóm",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "country",
+      "label": "Country",
+      "type": "noun",
+      "pronunciation": "/ˈkʌn.tri/",
+      "definition_vn": "Quốc gia",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "problem",
+      "label": "Problem",
+      "type": "noun",
+      "pronunciation": "/ˈpɒb.ləm/",
+      "definition_vn": "Vấn đề",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "hand",
+      "label": "Hand",
+      "type": "noun",
+      "pronunciation": "/hænd/",
+      "definition_vn": "Bàn tay",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "part",
+      "label": "Part",
+      "type": "noun",
+      "pronunciation": "/pɑːt/",
+      "definition_vn": "Phần, bộ phận",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "place",
+      "label": "Place",
+      "type": "noun",
+      "pronunciation": "/pleɪs/",
+      "definition_vn": "Địa điểm",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "case",
+      "label": "Case",
+      "type": "noun",
+      "pronunciation": "/keɪs/",
+      "definition_vn": "Trường hợp",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "week",
+      "label": "Week",
+      "type": "noun",
+      "pronunciation": "/wiːk/",
+      "definition_vn": "Tuần",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "company",
+      "label": "Company",
+      "type": "noun",
+      "pronunciation": "/ˈkʌm.pə.ni/",
+      "definition_vn": "Công ty",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "system",
+      "label": "System",
+      "type": "noun",
+      "pronunciation": "/ˈsɪs.təm/",
+      "definition_vn": "Hệ thống",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "program",
+      "label": "Program",
+      "type": "noun",
+      "pronunciation": "/ˈprəʊ.ɡræm/",
+      "definition_vn": "Chương trình",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "question",
+      "label": "Question",
+      "type": "noun",
+      "pronunciation": "/ˈkwes.tʃən/",
+      "definition_vn": "Câu hỏi",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "work",
+      "label": "Work",
+      "type": "noun",
+      "pronunciation": "/wɜːk/",
+      "definition_vn": "Công việc",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "government",
+      "label": "Government",
+      "type": "noun",
+      "pronunciation": "/ˈɡʌv.ən.mənt/",
+      "definition_vn": "Chính phủ",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "number",
+      "label": "Number",
+      "type": "noun",
+      "pronunciation": "/ˈnʌm.bər/",
+      "definition_vn": "Số lượng, con số",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "night",
+      "label": "Night",
+      "type": "noun",
+      "pronunciation": "/naɪt/",
+      "definition_vn": "Đêm",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "mr",
+      "label": "Mr",
+      "type": "noun",
+      "pronunciation": "/ˈmɪs.tər/",
+      "definition_vn": "Ông (xưng hô)",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "point",
+      "label": "Point",
+      "type": "noun",
+      "pronunciation": "/pɔɪnt/",
+      "definition_vn": "Điểm, quan điểm",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "home",
+      "label": "Home",
+      "type": "noun",
+      "pronunciation": "/həʊm/",
+      "definition_vn": "Nhà",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "water",
+      "label": "Water",
+      "type": "noun",
+      "pronunciation": "/ˈwɔː.tər/",
+      "definition_vn": "Nước",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "room",
+      "label": "Room",
+      "type": "noun",
+      "pronunciation": "/ruːm/",
+      "definition_vn": "Phòng",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "mother",
+      "label": "Mother",
+      "type": "noun",
+      "pronunciation": "/ˈmʌð.ər/",
+      "definition_vn": "Mẹ",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "area",
+      "label": "Area",
+      "type": "noun",
+      "pronunciation": "/ˈeə.ri.ə/",
+      "definition_vn": "Khu vực",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "money",
+      "label": "Money",
+      "type": "noun",
+      "pronunciation": "/ˈmʌn.i/",
+      "definition_vn": "Tiền",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "story",
+      "label": "Story",
+      "type": "noun",
+      "pronunciation": "/ˈstɔː.ri/",
+      "definition_vn": "Câu chuyện",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "fact",
+      "label": "Fact",
+      "type": "noun",
+      "pronunciation": "/fækt/",
+      "definition_vn": "Sự thật",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "month",
+      "label": "Month",
+      "type": "noun",
+      "pronunciation": "/mʌnθ/",
+      "definition_vn": "Tháng",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "lot",
+      "label": "Lot",
+      "type": "noun",
+      "pronunciation": "/lɒt/",
+      "definition_vn": "Nhiều",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "right",
+      "label": "Right",
+      "type": "noun",
+      "pronunciation": "/raɪt/",
+      "definition_vn": "Quyền lợi, bên phải",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "study",
+      "label": "Study",
+      "type": "noun",
+      "pronunciation": "/ˈstʌd.i/",
+      "definition_vn": "Nghiên cứu, học tập",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "book",
+      "label": "Book",
+      "type": "noun",
+      "pronunciation": "/bʊk/",
+      "definition_vn": "Sách",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "eye",
+      "label": "Eye",
+      "type": "noun",
+      "pronunciation": "/aɪ/",
+      "definition_vn": "Mắt",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "job",
+      "label": "Job",
+      "type": "noun",
+      "pronunciation": "/dʒɒb/",
+      "definition_vn": "Nghề nghiệp",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "word",
+      "label": "Word",
+      "type": "noun",
+      "pronunciation": "/wɜːd/",
+      "definition_vn": "Từ ngữ",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "business",
+      "label": "Business",
+      "type": "noun",
+      "pronunciation": "/ˈbɪz.nɪs/",
+      "definition_vn": "Kinh doanh",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "issue",
+      "label": "Issue",
+      "type": "noun",
+      "pronunciation": "/ˈɪʃ.uː/",
+      "definition_vn": "Vấn đề, phát hành",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "side",
+      "label": "Side",
+      "type": "noun",
+      "pronunciation": "/saɪd/",
+      "definition_vn": "Cạnh, khía cạnh",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "kind",
+      "label": "Kind",
+      "type": "noun",
+      "pronunciation": "/kaɪnd/",
+      "definition_vn": "Loại, tử tế",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "head",
+      "label": "Head",
+      "type": "noun",
+      "pronunciation": "/hed/",
+      "definition_vn": "Đầu",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "house",
+      "label": "House",
+      "type": "noun",
+      "pronunciation": "/haʊs/",
+      "definition_vn": "Ngôi nhà",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "service",
+      "label": "Service",
+      "type": "noun",
+      "pronunciation": "/ˈsɜː.vɪs/",
+      "definition_vn": "Dịch vụ",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "friend",
+      "label": "Friend",
+      "type": "noun",
+      "pronunciation": "/frend/",
+      "definition_vn": "Bạn bè",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "father",
+      "label": "Father",
+      "type": "noun",
+      "pronunciation": "/ˈfɑː.ðər/",
+      "definition_vn": "Cha",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "power",
+      "label": "Power",
+      "type": "noun",
+      "pronunciation": "/ˈpaʊ.ər/",
+      "definition_vn": "Sức mạnh, năng lượng",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "hour",
+      "label": "Hour",
+      "type": "noun",
+      "pronunciation": "/ˈaʊ.ər/",
+      "definition_vn": "Giờ",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "game",
+      "label": "Game",
+      "type": "noun",
+      "pronunciation": "/ɡeɪm/",
+      "definition_vn": "Trò chơi",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "line",
+      "label": "Line",
+      "type": "noun,/laɪn/,Dòng, hàng,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "end",
+      "label": "End",
+      "type": "noun,/end/,Kết thúc,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "member",
+      "label": "Member",
+      "type": "noun,/ˈmem.bər/,Thành viên,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "law",
+      "label": "Law",
+      "type": "noun,/lɔː/,Luật pháp,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "car",
+      "label": "Car",
+      "type": "noun,/kɑːr/,Xe hơi,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "city",
+      "label": "City",
+      "type": "noun,/ˈsɪt.i/,Thành phố,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "community",
+      "label": "Community",
+      "type": "noun,/kəˈmjuː.nə.ti/,Cộng đồng,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "name",
+      "label": "Name",
+      "type": "noun,/neɪm/,Tên,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "president",
+      "label": "President",
+      "type": "noun,/ˈprez.ɪ.dənt/,Chủ tịch, tổng thống,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "team",
+      "label": "Team",
+      "type": "noun,/tiːm/,Đội,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "minute",
+      "label": "Minute",
+      "type": "noun,/ˈmɪn.ɪt/,Phút,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "idea",
+      "label": "Idea",
+      "type": "noun,/aɪˈdɪə/,Ý tưởng,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "kid",
+      "label": "Kid",
+      "type": "noun,/kɪd/,Đứa trẻ,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "body",
+      "label": "Body",
+      "type": "noun,/ˈbɒd.i/,Thân thể,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "information",
+      "label": "Information",
+      "type": "noun,/ˌɪn.fəˈmeɪ.ʃən/,Thông tin,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "back",
+      "label": "Back",
+      "type": "noun,/bæk/,Cái lưng, phía sau,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "parent",
+      "label": "Parent",
+      "type": "noun,/ˈpeə.rənt/,Phụ huynh,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "face",
+      "label": "Face",
+      "type": "noun,/feɪs/,Khuôn mặt,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "others",
+      "label": "Others",
+      "type": "noun,/ˈʌð.ərz/,Những cái khác, người khác,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "level",
+      "label": "Level",
+      "type": "noun,/ˈlev.əl/,Mức độ, cấp độ,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "office",
+      "label": "Office",
+      "type": "noun,/ˈɒf.ɪs/,Văn phòng,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "door",
+      "label": "Door",
+      "type": "noun,/dɔːr/,Cửa,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "health",
+      "label": "Health",
+      "type": "noun,/helθ/,Sức khỏe,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "person",
+      "label": "Person",
+      "type": "noun,/ˈpɜː.sən/,Một người,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "art",
+      "label": "Art",
+      "type": "noun,/ɑːt/,Nghệ thuật,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "war",
+      "label": "War",
+      "type": "noun,/wɔːr/,Chiến tranh,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "history",
+      "label": "History",
+      "type": "noun,/ˈhɪs.tər.i/,Lịch sử,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "party",
+      "label": "Party",
+      "type": "noun,/ˈpɑː.ti/,Bữa tiệc, đảng phái,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "result",
+      "label": "Result",
+      "type": "noun,/rɪˈzʌlt/,Kết quả,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "change",
+      "label": "Change",
+      "type": "noun,/tʃeɪndʒ/,Sự thay đổi,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "morning",
+      "label": "Morning",
+      "type": "noun,/ˈmɔː.nɪŋ/,Buổi sáng,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "ability",
+      "label": "Ability",
+      "type": "noun,/əˈbɪl.ə.ti/,Khả năng,Common",
+      "pronunciation": "",
+      "definition_vn": "",
+      "unit": "",
+      "group": 1
+    },
+    {
+      "id": "reason",
+      "label": "Reason",
+      "type": "noun",
+      "pronunciation": "/ˈriː.zən/",
+      "definition_vn": "Lý do",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "research",
+      "label": "Research",
+      "type": "noun",
+      "pronunciation": "/rɪˈsɜːtʃ/",
+      "definition_vn": "Nghiên cứu",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "force",
+      "label": "Force",
+      "type": "noun",
+      "pronunciation": "/fɔːs/",
+      "definition_vn": "Lực lượng, sức mạnh",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "education",
+      "label": "Education",
+      "type": "noun",
+      "pronunciation": "/ˌedʒ.ʊˈkeɪ.ʃən/",
+      "definition_vn": "Giáo dục",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "knowledge",
+      "label": "Knowledge",
+      "type": "noun",
+      "pronunciation": "/ˈnɒl.ɪdʒ/",
+      "definition_vn": "Kiến thức",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "experience",
+      "label": "Experience",
+      "type": "noun",
+      "pronunciation": "/ɪkˈspɪə.ri.əns/",
+      "definition_vn": "Kinh nghiệm, trải nghiệm",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "goal",
+      "label": "Goal",
+      "type": "noun",
+      "pronunciation": "/ɡəʊl/",
+      "definition_vn": "Mục tiêu",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "analysis",
+      "label": "Analysis",
+      "type": "noun",
+      "pronunciation": "/əˈnæl.ə.sɪs/",
+      "definition_vn": "Sự phân tích",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "database",
+      "label": "Database",
+      "type": "noun",
+      "pronunciation": "/ˈdeɪ.tə.beɪs/",
+      "definition_vn": "Cơ sở dữ liệu",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "dataset",
+      "label": "Dataset",
+      "type": "noun",
+      "pronunciation": "/ˈdeɪ.tə.set/",
+      "definition_vn": "Bộ dữ liệu",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "visualization",
+      "label": "Visualization",
+      "type": "noun",
+      "pronunciation": "/ˌvɪʒ.u.əl.aɪˈzeɪ.ʃən/",
+      "definition_vn": "Trực quan hóa",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "cloud",
+      "label": "Cloud",
+      "type": "noun",
+      "pronunciation": "/klaʊd/",
+      "definition_vn": "Đám mây",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "server",
+      "label": "Server",
+      "type": "noun",
+      "pronunciation": "/ˈsɜː.vər/",
+      "definition_vn": "Máy chủ",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "api",
+      "label": "API",
+      "type": "noun",
+      "pronunciation": "/ˌeɪ.piːˈaɪ/",
+      "definition_vn": "Giao diện lập trình ứng dụng",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "framework",
+      "label": "Framework",
+      "type": "noun",
+      "pronunciation": "/ˈfreɪm.wɜːk/",
+      "definition_vn": "Khung làm việc, bộ mã nguồn",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "library",
+      "label": "Library",
+      "type": "noun",
+      "pronunciation": "/ˈlaɪ.brər.i/",
+      "definition_vn": "Thư viện (code)",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "component",
+      "label": "Component",
+      "type": "noun",
+      "pronunciation": "/kəmˈpəʊ.nənt/",
+      "definition_vn": "Thành phần",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "integration",
+      "label": "Integration",
+      "type": "noun",
+      "pronunciation": "/ˌɪn.tɪˈɡreɪ.ʃən/",
+      "definition_vn": "Sự tích hợp",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "scalability",
+      "label": "Scalability",
+      "type": "noun",
+      "pronunciation": "/ˌskeɪ.ləˈbɪl.ə.ti/",
+      "definition_vn": "Khả năng mở rộng",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "latency",
+      "label": "Latency",
+      "type": "noun",
+      "pronunciation": "/ˈleɪ.tən.si/",
+      "definition_vn": "Độ trễ",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "throughput",
+      "label": "Throughput",
+      "type": "noun",
+      "pronunciation": "/ˈθruː.pʊt/",
+      "definition_vn": "Lưu lượng xử lý, băng thông thực tế",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "reliability",
+      "label": "Reliability",
+      "type": "noun",
+      "pronunciation": "/rɪˌlaɪ.əˈbɪl.ə.ti/",
+      "definition_vn": "Độ tin cậy",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "security",
+      "label": "Security",
+      "type": "noun",
+      "pronunciation": "/sɪˈkjʊə.rə.ti/",
+      "definition_vn": "An ninh, bảo mật",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "privacy",
+      "label": "Privacy",
+      "type": "noun",
+      "pronunciation": "/ˈprɪv.ə.si/",
+      "definition_vn": "Sự riêng tư",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "ethics",
+      "label": "Ethics",
+      "type": "noun",
+      "pronunciation": "/ˈeθ.ɪks/",
+      "definition_vn": "Đạo đức",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "strategy",
+      "label": "Strategy",
+      "type": "noun",
+      "pronunciation": "/ˈstræt.ə.dʒi/",
+      "definition_vn": "Chiến lược",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "project",
+      "label": "Project",
+      "type": "noun",
+      "pronunciation": "/ˈprɒdʒ.ekt/",
+      "definition_vn": "Dự án",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "manager",
+      "label": "Manager",
+      "type": "noun",
+      "pronunciation": "/ˈmæn.ɪ.dʒər/",
+      "definition_vn": "Quản lý",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "client",
+      "label": "Client",
+      "type": "noun",
+      "pronunciation": "/ˈklaɪ.ənt/",
+      "definition_vn": "Khách hàng, đối tác",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "meeting",
+      "label": "Meeting",
+      "type": "noun",
+      "pronunciation": "/ˈmiː.tɪŋ/",
+      "definition_vn": "Cuộc họp",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "deadline",
+      "label": "Deadline",
+      "type": "noun",
+      "pronunciation": "/ˈded.laɪn/",
+      "definition_vn": "Hạn chót",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "schedule",
+      "label": "Schedule",
+      "type": "noun",
+      "pronunciation": "/ˈʃedʒ.uːl/",
+      "definition_vn": "Lịch trình",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "interview",
+      "label": "Interview",
+      "type": "noun",
+      "pronunciation": "/ˈɪn.tə.vjuː/",
+      "definition_vn": "Phỏng vấn",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "portfolio",
+      "label": "Portfolio",
+      "type": "noun",
+      "pronunciation": "/ˌpɔːtˈfəʊ.li.əʊ/",
+      "definition_vn": "Hồ sơ năng lực",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "resume",
+      "label": "Resume",
+      "type": "noun",
+      "pronunciation": "/ˈrez.juː.meɪ/",
+      "definition_vn": "Sơ yếu lý lịch",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "career",
+      "label": "Career",
+      "type": "noun",
+      "pronunciation": "/kəˈrɪər/",
+      "definition_vn": "Sự nghiệp",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "professional",
+      "label": "Professional",
+      "type": "adj",
+      "pronunciation": "/prəˈfeʃ.ən.əl/",
+      "definition_vn": "Chuyên nghiệp",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "expert",
+      "label": "Expert",
+      "type": "noun",
+      "pronunciation": "/ˈek.spɜːt/",
+      "definition_vn": "Chuyên gia",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "skill",
+      "label": "Skill",
+      "type": "noun",
+      "pronunciation": "/skɪl/",
+      "definition_vn": "Kỹ năng",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "innovation",
+      "label": "Innovation",
+      "type": "noun",
+      "pronunciation": "/ˌɪn.əˈveɪ.ʃən/",
+      "definition_vn": "Sự đổi mới, sáng kiến",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "solution",
+      "label": "Solution",
+      "type": "noun",
+      "pronunciation": "/səˈluː.ʃən/",
+      "definition_vn": "Giải pháp",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "challenge",
+      "label": "Challenge",
+      "type": "noun",
+      "pronunciation": "/ˈtʃæl.ɪndʒ/",
+      "definition_vn": "Thử thách",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "impact",
+      "label": "Impact",
+      "type": "noun",
+      "pronunciation": "/ˈɪm.pækt/",
+      "definition_vn": "Tác động, ảnh hưởng",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "opinion",
+      "label": "Opinion",
+      "type": "noun",
+      "pronunciation": "/əˈpɪn.jən/",
+      "definition_vn": "Ý kiến",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "decision",
+      "label": "Decision",
+      "type": "noun",
+      "pronunciation": "/dɪˈsɪʒ.ən/",
+      "definition_vn": "Quyết định",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "opportunity",
+      "label": "Opportunity",
+      "type": "noun",
+      "pronunciation": "/ˌɒp.əˈtjuː.nə.ti/",
+      "definition_vn": "Cơ hội",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "resource",
+      "label": "Resource",
+      "type": "noun",
+      "pronunciation": "/rɪˈzɔːs/",
+      "definition_vn": "Nguồn lực, tài nguyên",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "efficiency",
+      "label": "Efficiency",
+      "type": "noun",
+      "pronunciation": "/ɪˈfɪʃ.ən.si/",
+      "definition_vn": "Sự hiệu quả, năng suất",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "quality",
+      "label": "Quality",
+      "type": "noun",
+      "pronunciation": "/ˈkwɒl.ə.ti/",
+      "definition_vn": "Chất lượng",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "standard",
+      "label": "Standard",
+      "type": "noun",
+      "pronunciation": "/ˈstæn.dəd/",
+      "definition_vn": "Tiêu chuẩn",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "requirement",
+      "label": "Requirement",
+      "type": "noun",
+      "pronunciation": "/rɪˈkwaɪə.mənt/",
+      "definition_vn": "Yêu cầu",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "process",
+      "label": "Process",
+      "type": "noun",
+      "pronunciation": "/ˈprəʊ.ses/",
+      "definition_vn": "Quy trình",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "structure",
+      "label": "Structure",
+      "type": "noun",
+      "pronunciation": "/ˈstrʌk.tʃər/",
+      "definition_vn": "Cấu trúc",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "benefit",
+      "label": "Benefit",
+      "type": "noun",
+      "pronunciation": "/ˈben.ɪ.fɪt/",
+      "definition_vn": "Lợi ích",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "feedback",
+      "label": "Feedback",
+      "type": "noun",
+      "pronunciation": "/ˈfiːd.bæk/",
+      "definition_vn": "Phản hồi",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "environment",
+      "label": "Environment",
+      "type": "noun",
+      "pronunciation": "/ɪnˈvaɪ.rən.mənt/",
+      "definition_vn": "Môi trường",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "success",
+      "label": "Success",
+      "type": "noun",
+      "pronunciation": "/səkˈses/",
+      "definition_vn": "Thành công",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "failure",
+      "label": "Failure",
+      "type": "noun",
+      "pronunciation": "/ˈfeɪ.ljər/",
+      "definition_vn": "Thất bại",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "effort",
+      "label": "Effort",
+      "type": "noun",
+      "pronunciation": "/ˈef.ət/",
+      "definition_vn": "Nỗ lực",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "progress",
+      "label": "Progress",
+      "type": "noun",
+      "pronunciation": "/ˈprəʊ.ɡres/",
+      "definition_vn": "Tiến độ",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "method",
+      "label": "Method",
+      "type": "noun",
+      "pronunciation": "/ˈmeθ.əd/",
+      "definition_vn": "Phương pháp",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "procedure",
+      "label": "Procedure",
+      "type": "noun",
+      "pronunciation": "/prəˈsiː.dʒər/",
+      "definition_vn": "Thủ tục",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "compliance",
+      "label": "Compliance",
+      "type": "noun",
+      "pronunciation": "/kəmˈplaɪ.əns/",
+      "definition_vn": "Sự tuân thủ",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "risk",
+      "label": "Risk",
+      "type": "noun",
+      "pronunciation": "/rɪsk/",
+      "definition_vn": "Rủi ro",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "assessment",
+      "label": "Assessment",
+      "type": "noun",
+      "pronunciation": "/əˈses.mənt/",
+      "definition_vn": "Sự đánh giá",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "development",
+      "label": "Development",
+      "type": "noun",
+      "pronunciation": "/dɪˈvel.əp.mənt/",
+      "definition_vn": "Sự phát triển",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "maintenance",
+      "label": "Maintenance",
+      "type": "noun",
+      "pronunciation": "/ˈmeɪn.tə.nəns/",
+      "definition_vn": "Bảo trì",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "support",
+      "label": "Support",
+      "type": "noun",
+      "pronunciation": "/səˈpɔːt/",
+      "definition_vn": "Hỗ trợ",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "customer",
+      "label": "Customer",
+      "type": "noun",
+      "pronunciation": "/ˈkʌs.tə.mər/",
+      "definition_vn": "Khách hàng (người mua)",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "revenue",
+      "label": "Revenue",
+      "type": "noun",
+      "pronunciation": "/ˈrev.ən.juː/",
+      "definition_vn": "Doanh thu",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "budget",
+      "label": "Budget",
+      "type": "noun",
+      "pronunciation": "/ˈbʌdʒ.ɪt/",
+      "definition_vn": "Ngân sách",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "profit",
+      "label": "Profit",
+      "type": "noun",
+      "pronunciation": "/ˈprɒf.ɪt/",
+      "definition_vn": "Lợi nhuận",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "collaboration",
+      "label": "Collaboration",
+      "type": "noun",
+      "pronunciation": "/kəˌlæb.əˈreɪ.ʃən/",
+      "definition_vn": "Sự cộng tác",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "leadership",
+      "label": "Leadership",
+      "type": "noun",
+      "pronunciation": "/ˈliː.də.ʃɪp/",
+      "definition_vn": "Khả năng lãnh đạo",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "productivity",
+      "label": "Productivity",
+      "type": "noun",
+      "pronunciation": "/ˌprɒd.ʌkˈtɪv.ə.ti/",
+      "definition_vn": "Năng suất lao động",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "flexibility",
+      "label": "Flexibility",
+      "type": "noun",
+      "pronunciation": "/ˌflek.səˈbɪl.ə.ti/",
+      "definition_vn": "Tính linh hoạt",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "communication",
+      "label": "Communication",
+      "type": "noun",
+      "pronunciation": "/kəˌmjuː.nɪˈkeɪ.ʃən/",
+      "definition_vn": "Giao tiếp",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "negotiation",
+      "label": "Negotiation",
+      "type": "noun",
+      "pronunciation": "/nəˌɡəʊ.ʃiˈeɪ.ʃən/",
+      "definition_vn": "Sự thương lượng, đàm phán",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "presentation",
+      "label": "Presentation",
+      "type": "noun",
+      "pronunciation": "/ˌprez.ənˈteɪ.ʃən/",
+      "definition_vn": "Bài thuyết trình",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "document",
+      "label": "Document",
+      "type": "noun",
+      "pronunciation": "/ˈdɒk.jə.mənt/",
+      "definition_vn": "Tài liệu",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "format",
+      "label": "Format",
+      "type": "noun",
+      "pronunciation": "/ˈfɔː.mæt/",
+      "definition_vn": "Định dạng",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "function",
+      "label": "Function",
+      "type": "noun",
+      "pronunciation": "/ˈfʌŋk.ʃən/",
+      "definition_vn": "Hàm số, chức năng",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "variable",
+      "label": "Variable",
+      "type": "noun",
+      "pronunciation": "/ˈveə.ri.ə.bl̩/",
+      "definition_vn": "Biến số",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "constant",
+      "label": "Constant",
+      "type": "noun",
+      "pronunciation": "/ˈkɒn.stənt/",
+      "definition_vn": "Hằng số",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "syntax",
+      "label": "Syntax",
+      "type": "noun",
+      "pronunciation": "/ˈsɪn.tæks/",
+      "definition_vn": "Cú pháp",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "logic",
+      "label": "Logic",
+      "type": "noun",
+      "pronunciation": "/ˈlɒdʒ.ɪk/",
+      "definition_vn": "Lập luận, lô-gic",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "pattern",
+      "label": "Pattern",
+      "type": "noun",
+      "pronunciation": "/ˈpæt.ən/",
+      "definition_vn": "Hoa văn, khuôn mẫu",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "trend",
+      "label": "Trend",
+      "type": "noun",
+      "pronunciation": "/trend/",
+      "definition_vn": "Xu hướng",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "feature",
+      "label": "Feature",
+      "type": "noun",
+      "pronunciation": "/ˈfiː.tʃər/",
+      "definition_vn": "Tính năng, đặc điểm",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "advantage",
+      "label": "Advantage",
+      "type": "noun",
+      "pronunciation": "/ədˈvɑːn.tɪdʒ/",
+      "definition_vn": "Ưu thế, thuận lợi",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "disadvantage",
+      "label": "Disadvantage",
+      "type": "noun",
+      "pronunciation": "/ˌdɪs.ədˈvɑːn.tɪdʒ/",
+      "definition_vn": "Nhược điểm",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "challenge",
+      "label": "Challenge",
+      "type": "noun",
+      "pronunciation": "/ˈtʃæl.ɪndʒ/",
+      "definition_vn": "Thử thách",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "solution",
+      "label": "Solution",
+      "type": "noun",
+      "pronunciation": "/səˈluː.ʃən/",
+      "definition_vn": "Giải pháp",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "effect",
+      "label": "Effect",
+      "type": "noun",
+      "pronunciation": "/ɪˈfekt/",
+      "definition_vn": "Hiệu ứng, tác động",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "affect",
+      "label": "Affect",
+      "type": "verb",
+      "pronunciation": "/əˈfekt/",
+      "definition_vn": "Ảnh hưởng đến",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "improvement",
+      "label": "Improvement",
+      "type": "noun",
+      "pronunciation": "/ɪmˈpruːv.mənt/",
+      "definition_vn": "Sự cải thiện",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "increase",
+      "label": "Increase",
+      "type": "verb",
+      "pronunciation": "/ɪnˈkriːs/",
+      "definition_vn": "Tăng lên",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "decrease",
+      "label": "Decrease",
+      "type": "verb",
+      "pronunciation": "/dɪˈkriːs/",
+      "definition_vn": "Giảm xuống",
+      "unit": "Common",
+      "group": 7
+    },
+    {
+      "id": "performance",
+      "label": "Performance",
+      "type": "noun",
+      "pronunciation": "/pəˈfɔː.məns/",
+      "definition_vn": "Hiệu suất, buổi trình diễn",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "stable",
+      "label": "Stable",
+      "type": "adj",
+      "pronunciation": "/ˈsteɪ.bl̩/",
+      "definition_vn": "Ổn định",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "gradient",
+      "label": "Gradient",
+      "type": "noun",
+      "pronunciation": "/ˈɡreɪ.di.ənt/",
+      "definition_vn": "Độ dốc, sự thay đổi độ biến thiên",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "bias",
+      "label": "Bias",
+      "type": "noun",
+      "pronunciation": "/ˈbaɪ.əs/",
+      "definition_vn": "Độ lệch, thành kiến (trong dữ liệu)",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "variance",
+      "label": "Variance",
+      "type": "noun",
+      "pronunciation": "/ˈveə.ri.əns/",
+      "definition_vn": "Phương sai, sự biến động",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "overfitting",
+      "label": "Overfitting",
+      "type": "noun",
+      "pronunciation": "/ˌəʊ.vəˈfɪt.ɪŋ/",
+      "definition_vn": "Quá khớp (mô hình quá học thuộc lòng)",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "underfitting",
+      "label": "Underfitting",
+      "type": "noun",
+      "pronunciation": "/ˌʌn.dəˈfɪt.ɪŋ/",
+      "definition_vn": "Chưa khớp (mô hình quá đơn giản)",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "epoch",
+      "label": "Epoch",
+      "type": "noun",
+      "pronunciation": "/ˈiː.pɒk/",
+      "definition_vn": "Một chu kỳ huấn luyện toàn bộ dữ liệu",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "batch",
+      "label": "Batch",
+      "type": "noun",
+      "pronunciation": "/bætʃ/",
+      "definition_vn": "Lô, nhóm dữ liệu xử lý cùng lúc",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "weight",
+      "label": "Weight",
+      "type": "noun",
+      "pronunciation": "/weɪt/",
+      "definition_vn": "Trọng số",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "activation",
+      "label": "Activation",
+      "type": "noun",
+      "pronunciation": "/ˌæk.tɪˈveɪ.ʃən/",
+      "definition_vn": "Sự kích hoạt (hàm kích hoạt)",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "inference",
+      "label": "Inference",
+      "type": "noun",
+      "pronunciation": "/ˈɪn.fər.əns/",
+      "definition_vn": "Sự suy luận (mô hình chạy thực tế)",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "prediction",
+      "label": "Prediction",
+      "type": "noun",
+      "pronunciation": "/prɪˈdɪk.ʃən/",
+      "definition_vn": "Sự dự đoán",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "accuracy",
+      "label": "Accuracy",
+      "type": "noun",
+      "pronunciation": "/ˈæk.jə.rə.si/",
+      "definition_vn": "Độ chính xác",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "precision",
+      "label": "Precision",
+      "type": "noun",
+      "pronunciation": "/prɪˈsɪʒ.ən/",
+      "definition_vn": "Độ chuẩn xác (khả năng lọc nhiễu)",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "recall",
+      "label": "Recall",
+      "type": "noun",
+      "pronunciation": "/rɪˈkɔːl/",
+      "definition_vn": "Độ bao phủ, khả năng tìm lại",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "clustering",
+      "label": "Clustering",
+      "type": "noun",
+      "pronunciation": "/ˈklʌs.tər.ɪŋ/",
+      "definition_vn": "Sự phân cụm",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "regression",
+      "label": "Regression",
+      "type": "noun",
+      "pronunciation": "/rɪˈɡreʃ.ən/",
+      "definition_vn": "Sự hồi quy",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "classification",
+      "label": "Classification",
+      "type": "noun",
+      "pronunciation": "/ˌklæs.ɪ.fɪˈkeɪ.ʃən/",
+      "definition_vn": "Sự phân loại",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "supervised",
+      "label": "Supervised",
+      "type": "adj",
+      "pronunciation": "/ˈsuː.pə.vaɪzd/",
+      "definition_vn": "Có giám sát",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "unsupervised",
+      "label": "Unsupervised",
+      "type": "adj",
+      "pronunciation": "/ʌnˈsuː.pə.vaɪzd/",
+      "definition_vn": "Không giám sát",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "reinforcement",
+      "label": "Reinforcement",
+      "type": "noun",
+      "pronunciation": "/ˌriː.ɪnˈfɔːs.mənt/",
+      "definition_vn": "Học tăng cường",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "warehouse",
+      "label": "Warehouse",
+      "type": "noun",
+      "pronunciation": "/ˈweə.haʊs/",
+      "definition_vn": "Kho hàng, kho dữ liệu",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "streaming",
+      "label": "Streaming",
+      "type": "noun",
+      "pronunciation": "/ˈstriː.mɪŋ/",
+      "definition_vn": "Xử lý luồng (dữ liệu trực tiếp)",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "asynchronous",
+      "label": "Asynchronous",
+      "type": "adj",
+      "pronunciation": "/eɪˈsɪŋ.krə.nəs/",
+      "definition_vn": "Bất đồng bộ",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "synchronous",
+      "label": "Synchronous",
+      "type": "adj",
+      "pronunciation": "/ˈsɪŋ.krə.nəs/",
+      "definition_vn": "Đồng bộ",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "endpoint",
+      "label": "Endpoint",
+      "type": "noun",
+      "pronunciation": "/ˈend.pɔɪnt/",
+      "definition_vn": "Điểm cuối (địa chỉ API)",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "token",
+      "label": "Token",
+      "type": "noun",
+      "pronunciation": "/ˈtəʊ.kən/",
+      "definition_vn": "Mã thông báo, đơn vị từ vựng trong LLM",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "embedding",
+      "label": "Embedding",
+      "type": "noun",
+      "pronunciation": "/ɪmˈbed.ɪŋ/",
+      "definition_vn": "Sự nhúng (chuyển từ sang vector)",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "vector",
+      "label": "Vector",
+      "type": "noun",
+      "pronunciation": "/ˈvek.tər/",
+      "definition_vn": "Véc-tơ",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "matrix",
+      "label": "Matrix",
+      "type": "noun",
+      "pronunciation": "/ˈmeɪ.trɪks/",
+      "definition_vn": "Ma trận",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "tensor",
+      "label": "Tensor",
+      "type": "noun",
+      "pronunciation": "/ˈten.sər/",
+      "definition_vn": "Mảng đa chiều",
+      "unit": "AI & Tech",
+      "group": 8
+    },
+    {
+      "id": "sprite",
+      "label": "Sprite",
+      "type": "noun",
+      "pronunciation": "/spraɪt/",
+      "definition_vn": "Hình ảnh đồ họa 2D trong game",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "asset",
+      "label": "Asset",
+      "type": "noun",
+      "pronunciation": "/ˈæs.et/",
+      "definition_vn": "Tài nguyên (hình ảnh, âm thanh)",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "physics",
+      "label": "Physics",
+      "type": "noun",
+      "pronunciation": "/ˈfɪz.ɪks/",
+      "definition_vn": "Vật lý (trong game)",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "collision",
+      "label": "Collision",
+      "type": "noun",
+      "pronunciation": "/kəˈlɪʒ.ən/",
+      "definition_vn": "Sự va chạm",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "trigger",
+      "label": "Trigger",
+      "type": "noun",
+      "pronunciation": "/ˈtrɪɡ.ər/",
+      "definition_vn": "Vùng kích hoạt, trình kích hoạt",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "prefab",
+      "label": "Prefab",
+      "type": "noun",
+      "pronunciation": "/ˈpriː.fæb/",
+      "definition_vn": "Vật thể mẫu (đã thiết kế sẵn)",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "scene",
+      "label": "Scene",
+      "type": "noun",
+      "pronunciation": "/siːn/",
+      "definition_vn": "Cảnh game",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "frame",
+      "label": "Frame",
+      "type": "noun",
+      "pronunciation": "/freɪm/",
+      "definition_vn": "Khung hình",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "render",
+      "label": "Render",
+      "type": "verb",
+      "pronunciation": "/ˈren.dər/",
+      "definition_vn": "Xuất hình ảnh, kết xuất",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "shader",
+      "label": "Shader",
+      "type": "noun",
+      "pronunciation": "/ˈʃeɪ.dər/",
+      "definition_vn": "Trình đổ bóng",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "mesh",
+      "label": "Mesh",
+      "type": "noun",
+      "pronunciation": "/meʃ/",
+      "definition_vn": "Lưới đa giác (vật thể 3D)",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "ui/ux",
+      "label": "UI/UX",
+      "type": "noun",
+      "pronunciation": "/ˌjuː.aɪ ˌjuː.eks/",
+      "definition_vn": "Giao diện và trải nghiệm người dùng",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "animation",
+      "label": "Animation",
+      "type": "noun",
+      "pronunciation": "/ˌæn.ɪˈmeɪ.ʃən/",
+      "definition_vn": "Hoạt ảnh",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "particle",
+      "label": "Particle",
+      "type": "noun",
+      "pronunciation": "/ˈpɑː.tɪ.kl̩/",
+      "definition_vn": "Hệ thống hạt (hiệu ứng khói, lửa)",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "texture",
+      "label": "Texture",
+      "type": "noun",
+      "pronunciation": "/ˈteks.tʃər/",
+      "definition_vn": "Kết cấu, vân bề mặt",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "material",
+      "label": "Material",
+      "type": "noun",
+      "pronunciation": "/məˈtɪə.ri.əl/",
+      "definition_vn": "Chất liệu",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "viewport",
+      "label": "Viewport",
+      "type": "noun",
+      "pronunciation": "/ˈvjuː.pɔːt/",
+      "definition_vn": "Cửa sổ hiển thị",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "raycast",
+      "label": "Raycast",
+      "type": "noun",
+      "pronunciation": "/ˈreɪ.kɑːst/",
+      "definition_vn": "Tia dò (kiểm tra va chạm từ xa)",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "handler",
+      "label": "Handler",
+      "type": "noun",
+      "pronunciation": "/ˈhænd.lər/",
+      "definition_vn": "Trình xử lý (sự kiện)",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "callback",
+      "label": "Callback",
+      "type": "noun",
+      "pronunciation": "/ˈkɔːl.bæk/",
+      "definition_vn": "Hàm gọi lại",
+      "unit": "Game Dev",
+      "group": 3
+    },
+    {
+      "id": "probation",
+      "label": "Probation",
+      "type": "noun",
+      "pronunciation": "/prəˈbeɪ.ʃən/",
+      "definition_vn": "Thử việc",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "recruitment",
+      "label": "Recruitment",
+      "type": "noun",
+      "pronunciation": "/rɪˈkruːt.mənt/",
+      "definition_vn": "Sự tuyển dụng",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "onboarding",
+      "label": "Onboarding",
+      "type": "noun",
+      "pronunciation": "/ˈɒnˌbɔː.dɪŋ/",
+      "definition_vn": "Quá trình nhập môn cho nhân viên mới",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "mentorship",
+      "label": "Mentorship",
+      "type": "noun",
+      "pronunciation": "/ˈmen.tɔː.ʃɪp/",
+      "definition_vn": "Sự cố vấn, hướng dẫn",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "appraisal",
+      "label": "Appraisal",
+      "type": "noun",
+      "pronunciation": "/əˈpreɪ.zəl/",
+      "definition_vn": "Sự đánh giá, xét duyệt",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "kpi",
+      "label": "KPI",
+      "type": "noun",
+      "pronunciation": "/ˌkeɪ.piːˈaɪ/",
+      "definition_vn": "Chỉ số đo lường hiệu quả công việc",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "okr",
+      "label": "OKR",
+      "type": "noun",
+      "pronunciation": "/ˌəʊ.keɪˈɑːr/",
+      "definition_vn": "Mục tiêu và kết quả then chót",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "roadmap",
+      "label": "Roadmap",
+      "type": "noun",
+      "pronunciation": "/ˈrəʊd.mæp/",
+      "definition_vn": "Lộ trình",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "milestone",
+      "label": "Milestone",
+      "type": "noun",
+      "pronunciation": "/ˈmaɪl.stəʊn/",
+      "definition_vn": "Cột mốc quan trọng",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "sprint",
+      "label": "Sprint",
+      "type": "noun",
+      "pronunciation": "/sprɪnt/",
+      "definition_vn": "Giai đoạn làm việc ngắn (Agile)",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "backlog",
+      "label": "Backlog",
+      "type": "noun",
+      "pronunciation": "/ˈbæk.lɒɡ/",
+      "definition_vn": "Danh sách công việc tồn đọng",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "scrum",
+      "label": "Scrum",
+      "type": "noun",
+      "pronunciation": "/skrʌm/",
+      "definition_vn": "Mô hình quản lý dự án linh hoạt",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "standup",
+      "label": "Standup",
+      "type": "noun",
+      "pronunciation": "/ˈstænd.ʌp/",
+      "definition_vn": "Hội ý nhanh hàng ngày",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "workshop",
+      "label": "Workshop",
+      "type": "noun",
+      "pronunciation": "/ˈwɜːk.ʃɒp/",
+      "definition_vn": "Hội thảo thực hành",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "networking",
+      "label": "Networking",
+      "type": "noun",
+      "pronunciation": "/ˈnet.wɜː.kɪŋ/",
+      "definition_vn": "Sự kết nối mạng lưới quan hệ",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "referral",
+      "label": "Referral",
+      "type": "noun",
+      "pronunciation": "/rɪˈfɜː.rəl/",
+      "definition_vn": "Sự giới thiệu (nhân sự/khách hàng)",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "testimonial",
+      "label": "Testimonial",
+      "type": "noun",
+      "pronunciation": "/ˌtes.tɪˈməʊ.ni.əl/",
+      "definition_vn": "Lời chứng thực, đánh giá tốt",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "credential",
+      "label": "Credential",
+      "type": "noun",
+      "pronunciation": "/krɪˈden.ʃəl/",
+      "definition_vn": "Chứng chỉ, thông tin xác thực",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "certification",
+      "label": "Certification",
+      "type": "noun",
+      "pronunciation": "/ˌsɜː.tɪ.fɪˈkeɪ.ʃən/",
+      "definition_vn": "Sự cấp chứng chỉ",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "degree",
+      "label": "Degree",
+      "type": "noun",
+      "pronunciation": "/dɪˈɡriː/",
+      "definition_vn": "Bằng cấp",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "ownership",
+      "label": "Ownership",
+      "type": "noun",
+      "pronunciation": "/ˈəʊ.nə.ʃɪp/",
+      "definition_vn": "Quyền sở hữu, tinh thần trách nhiệm",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "accountability",
+      "label": "Accountability",
+      "type": "noun",
+      "pronunciation": "/əˌkaʊn.təˈbɪl.ə.ti/",
+      "definition_vn": "Trách nhiệm giải trình",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "initiative",
+      "label": "Initiative",
+      "type": "noun",
+      "pronunciation": "/ɪˈnɪʃ.ə.tɪv/",
+      "definition_vn": "Sự chủ động, sáng kiến",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "proactive",
+      "label": "Proactive",
+      "type": "adj",
+      "pronunciation": "/ˌprəʊˈæk.tɪv/",
+      "definition_vn": "Tiên phong, chủ động",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "reactive",
+      "label": "Reactive",
+      "type": "adj",
+      "pronunciation": "/riˈæk.tɪv/",
+      "definition_vn": "Phản ứng (đợi việc tới mới làm)",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "teamwork",
+      "label": "Teamwork",
+      "type": "noun",
+      "pronunciation": "/ˈtiːm.wɜːk/",
+      "definition_vn": "Làm việc nhóm",
+      "unit": "Professional",
+      "group": 1
+    },
+    {
+      "id": "gratitude",
+      "label": "Gratitude",
+      "type": "noun",
+      "pronunciation": "/ˈɡræt.ɪ.tʃuːd/",
+      "definition_vn": "Lòng biết ơn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "appreciation",
+      "label": "Appreciation",
+      "type": "noun",
+      "pronunciation": "/əˌpriː.ʃiˈeɪ.ʃən/",
+      "definition_vn": "Sự trân trọng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "empathy",
+      "label": "Empathy",
+      "type": "noun",
+      "pronunciation": "/ˈem.pə.θi/",
+      "definition_vn": "Sự thấu cảm",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "compassion",
+      "label": "Compassion",
+      "type": "noun",
+      "pronunciation": "/kəmˈpæʃ.ən/",
+      "definition_vn": "Lòng trắc ẩn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "integrity",
+      "label": "Integrity",
+      "type": "noun",
+      "pronunciation": "/ɪnˈteɡ.rə.ti/",
+      "definition_vn": "Sự liêm chính, chính trực",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "dignity",
+      "label": "Dignity",
+      "type": "noun",
+      "pronunciation": "/ˈdɪɡ.nə.ti/",
+      "definition_vn": "Lòng tự trọng, phẩm giá",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "reputation",
+      "label": "Reputation",
+      "type": "noun",
+      "pronunciation": "/ˌrep.jəˈteɪ.ʃən/",
+      "definition_vn": "Danh tiếng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "authority",
+      "label": "Authority",
+      "type": "noun",
+      "pronunciation": "/ɔːˈθɒr.ə.ti/",
+      "definition_vn": "Thẩm quyền, uy tín",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "equality",
+      "label": "Equality",
+      "type": "noun",
+      "pronunciation": "/iˈkwɒl.ə.ti/",
+      "definition_vn": "Sự bình đẳng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "diversity",
+      "label": "Diversity",
+      "type": "noun",
+      "pronunciation": "/daɪˈvɜː.sə.ti/",
+      "definition_vn": "Sự đa dạng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "resilience",
+      "label": "Resilience",
+      "type": "noun",
+      "pronunciation": "/rɪˈzɪl.i.əns/",
+      "definition_vn": "Sự kiên cường, khả năng phục hồi",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "persistence",
+      "label": "Persistence",
+      "type": "noun",
+      "pronunciation": "/pəˈsɪs.təns/",
+      "definition_vn": "Sự kiên trì",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "humility",
+      "label": "Humility",
+      "type": "noun",
+      "pronunciation": "/hjuːˈmɪl.ə.ti/",
+      "definition_vn": "Sự khiêm tốn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "wisdom",
+      "label": "Wisdom",
+      "type": "noun",
+      "pronunciation": "/ˈwɪz.dəm/",
+      "definition_vn": "Sự khôn ngoan",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "intelligence",
+      "label": "Intelligence",
+      "type": "noun",
+      "pronunciation": "/ɪnˈtel.ɪ.dʒəns/",
+      "definition_vn": "Sự thông minh",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "confidence",
+      "label": "Confidence",
+      "type": "noun",
+      "pronunciation": "/ˈkɒn.fɪ.dəns/",
+      "definition_vn": "Sự tự tin",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "anxiety",
+      "label": "Anxiety",
+      "type": "noun",
+      "pronunciation": "/æŋˈzaɪ.ə.ti/",
+      "definition_vn": "Sự lo âu",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "stress",
+      "label": "Stress",
+      "type": "noun",
+      "pronunciation": "/stres/",
+      "definition_vn": "Sự căng thẳng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "habit",
+      "label": "Habit",
+      "type": "noun",
+      "pronunciation": "/ˈhæb.ɪt/",
+      "definition_vn": "Thói quen",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "discipline",
+      "label": "Discipline",
+      "type": "noun",
+      "pronunciation": "/ˈdɪs.ə.plɪn/",
+      "definition_vn": "Kỷ luật",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "success",
+      "label": "Success",
+      "type": "noun",
+      "pronunciation": "/səkˈses/",
+      "definition_vn": "Thành công",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "ambition",
+      "label": "Ambition",
+      "type": "noun",
+      "pronunciation": "/æmˈbɪʃ.ən/",
+      "definition_vn": "Tham vọng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "adventure",
+      "label": "Adventure",
+      "type": "noun",
+      "pronunciation": "/ədˈven.tʃər/",
+      "definition_vn": "Cuộc phiêu lưu",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "comfort",
+      "label": "Comfort",
+      "type": "noun",
+      "pronunciation": "/ˈkʌm.fət/",
+      "definition_vn": "Sự thoải mái, an ủi",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "support",
+      "label": "Support",
+      "type": "verb",
+      "pronunciation": "/səˈpɔːt/",
+      "definition_vn": "Hỗ trợ, ủng hộ",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "celebrate",
+      "label": "Celebrate",
+      "type": "verb",
+      "pronunciation": "/ˈsel.ə.breɪt/",
+      "definition_vn": "Ăn mừng, kỷ niệm",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "improve",
+      "label": "Improve",
+      "type": "verb",
+      "pronunciation": "/ɪmˈpruːv/",
+      "definition_vn": "Cải thiện",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "inspire",
+      "label": "Inspire",
+      "type": "verb",
+      "pronunciation": "/ɪnˈspaɪər/",
+      "definition_vn": "Truyền cảm hứng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "motivate",
+      "label": "Motivate",
+      "type": "verb",
+      "pronunciation": "/ˈməʊ.tɪ.veɪt/",
+      "definition_vn": "Thúc đẩy, tạo động lực",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "achieve",
+      "label": "Achieve",
+      "type": "verb",
+      "pronunciation": "/əˈtʃiːv/",
+      "definition_vn": "Đạt được",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "perform",
+      "label": "Perform",
+      "type": "verb",
+      "pronunciation": "/pəˈfɔːm/",
+      "definition_vn": "Trình diễn, thực hiện",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "organize",
+      "label": "Organize",
+      "type": "verb",
+      "pronunciation": "/ˈɔː.ɡə.naɪz/",
+      "definition_vn": "Tổ chức, sắp xếp",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "manage",
+      "label": "Manage",
+      "type": "verb",
+      "pronunciation": "/ˈmæn.ɪdʒ/",
+      "definition_vn": "Quản lý",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "explain",
+      "label": "Explain",
+      "type": "verb",
+      "pronunciation": "/ɪkˈspleɪn/",
+      "definition_vn": "Giải thích",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "discuss",
+      "label": "Discuss",
+      "type": "verb",
+      "pronunciation": "/dɪˈskʌs/",
+      "definition_vn": "Thảo luận",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "imagine",
+      "label": "Imagine",
+      "type": "verb",
+      "pronunciation": "/ɪˈmædʒ.ɪn/",
+      "definition_vn": "Tưởng tượng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "creative",
+      "label": "Creative",
+      "type": "adj",
+      "pronunciation": "/kriˈeɪ.tɪv/",
+      "definition_vn": "Sáng tạo",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "logical",
+      "label": "Logical",
+      "type": "adj",
+      "pronunciation": "/ˈlɒdʒ.ɪ.kəl/",
+      "definition_vn": "Hợp lô-gic",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "patient",
+      "label": "Patient",
+      "type": "adj",
+      "pronunciation": "/ˈpeɪ.ʃənt/",
+      "definition_vn": "Kiên nhẫn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "reliable",
+      "label": "Reliable",
+      "type": "adj",
+      "pronunciation": "/rɪˈlaɪ.ə.bl̩/",
+      "definition_vn": "Đáng tin cậy",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "generous",
+      "label": "Generous",
+      "type": "adj",
+      "pronunciation": "/ˈdʒen.ər.əs/",
+      "definition_vn": "Hào phóng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "humble",
+      "label": "Humble",
+      "type": "adj",
+      "pronunciation": "/ˈhʌm.bl̩/",
+      "definition_vn": "Khiêm nhường",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "brave",
+      "label": "Brave",
+      "type": "adj",
+      "pronunciation": "/breɪv/",
+      "definition_vn": "Dũng cảm",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "curious",
+      "label": "Curious",
+      "type": "adj",
+      "pronunciation": "/ˈkjʊə.ri.əs/",
+      "definition_vn": "Tò mò, ham học hỏi",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "sincere",
+      "label": "Sincere",
+      "type": "adj",
+      "pronunciation": "/sɪnˈsɪər/",
+      "definition_vn": "Chân thành",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "polite",
+      "label": "Polite",
+      "type": "adj",
+      "pronunciation": "/pəˈlaɪt/",
+      "definition_vn": "Lịch sự",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "energetic",
+      "label": "Energetic",
+      "type": "adj",
+      "pronunciation": "/ˌen.əˈdʒet.ɪk/",
+      "definition_vn": "Năng động",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "positive",
+      "label": "Positive",
+      "type": "adj",
+      "pronunciation": "/ˈpɒz.ə.tɪv/",
+      "definition_vn": "Tích cực",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "flexible",
+      "label": "Flexible",
+      "type": "adj",
+      "pronunciation": "/ˈflek.sə.bl̩/",
+      "definition_vn": "Linh hoạt",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "independent",
+      "label": "Independent",
+      "type": "adj",
+      "pronunciation": "/ˌɪn.dɪˈpen.dənt/",
+      "definition_vn": "Độc lập",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "responsible",
+      "label": "Responsible",
+      "type": "adj",
+      "pronunciation": "/rɪˈspɒn.sə.bl̩/",
+      "definition_vn": "Có trách nhiệm",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "talented",
+      "label": "Talented",
+      "type": "adj",
+      "pronunciation": "/ˈtæl.ən.tɪd/",
+      "definition_vn": "Tài năng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "enthusiastic",
+      "label": "Enthusiastic",
+      "type": "adj",
+      "pronunciation": "/ɪnˌθjuː.ziˈæs.tɪk/",
+      "definition_vn": "Nhiệt tình",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "focused",
+      "label": "Focused",
+      "type": "adj",
+      "pronunciation": "/ˈfəʊ.kəst/",
+      "definition_vn": "Tập trung",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "determination",
+      "label": "Determination",
+      "type": "noun",
+      "pronunciation": "/dɪˌtɜː.mɪˈneɪ.ʃən/",
+      "definition_vn": "Sự quyết tâm",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "commitment",
+      "label": "Commitment",
+      "type": "noun",
+      "pronunciation": "/kəˈmɪt.mənt/",
+      "definition_vn": "Sự cam kết",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "opportunity",
+      "label": "Opportunity",
+      "type": "noun",
+      "pronunciation": "/ˌɒp.əˈtjuː.nə.ti/",
+      "definition_vn": "Cơ hội",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "possibility",
+      "label": "Possibility",
+      "type": "noun",
+      "pronunciation": "/ˌpɒs.əˈbɪl.ə.ti/",
+      "definition_vn": "Khả năng, sự khả thi",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "potential",
+      "label": "Potential",
+      "type": "noun",
+      "pronunciation": "/pəˈten.ʃəl/",
+      "definition_vn": "Tiềm năng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "challenge",
+      "label": "Challenge",
+      "type": "noun",
+      "pronunciation": "/ˈtʃæl.ɪndʒ/",
+      "definition_vn": "Thách thức",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "solution",
+      "label": "Solution",
+      "type": "noun",
+      "pronunciation": "/səˈluː.ʃən/",
+      "definition_vn": "Giải pháp",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "impact",
+      "label": "Impact",
+      "type": "noun",
+      "pronunciation": "/ˈɪm.pækt/",
+      "definition_vn": "Tác động",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "benefit",
+      "label": "Benefit",
+      "type": "noun",
+      "pronunciation": "/ˈben.ɪ.fɪt/",
+      "definition_vn": "Lợi ích",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "advantage",
+      "label": "Advantage",
+      "type": "noun",
+      "pronunciation": "/ədˈvɑːn.tɪdʒ/",
+      "definition_vn": "Ưu thế",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "value",
+      "label": "Value",
+      "type": "noun",
+      "pronunciation": "/ˈvæl.juː/",
+      "definition_vn": "Giá trị",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "purpose",
+      "label": "Purpose",
+      "type": "noun",
+      "pronunciation": "/ˈpɜː.pəs/",
+      "definition_vn": "Mục đích",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "vision",
+      "label": "Vision",
+      "type": "noun",
+      "pronunciation": "/ˈvɪʒ.ən/",
+      "definition_vn": "Tầm nhìn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "mission",
+      "label": "Mission",
+      "type": "noun",
+      "pronunciation": "/ˈmɪʃ.ən/",
+      "definition_vn": "Sứ mệnh",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "standard",
+      "label": "Standard",
+      "type": "noun",
+      "pronunciation": "/ˈstæn.dəd/",
+      "definition_vn": "Tiêu chuẩn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "quality",
+      "label": "Quality",
+      "type": "noun",
+      "pronunciation": "/ˈkwɒl.ə.ti/",
+      "definition_vn": "Chất lượng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "safety",
+      "label": "Safety",
+      "type": "noun",
+      "pronunciation": "/ˈseɪf.ti/",
+      "definition_vn": "Sự an toàn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "privacy",
+      "label": "Privacy",
+      "type": "noun",
+      "pronunciation": "/ˈprɪv.ə.si/",
+      "definition_vn": "Sự riêng tư",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "security",
+      "label": "Security",
+      "type": "noun",
+      "pronunciation": "/sɪˈkjʊə.rə.ti/",
+      "definition_vn": "An ninh",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "balance",
+      "label": "Balance",
+      "type": "noun",
+      "pronunciation": "/ˈbæl.əns/",
+      "definition_vn": "Sự cân bằng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "control",
+      "label": "Control",
+      "type": "noun",
+      "pronunciation": "/kənˈtrəʊl/",
+      "definition_vn": "Sự kiểm soát",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "change",
+      "label": "Change",
+      "type": "noun",
+      "pronunciation": "/tʃeɪndʒ/",
+      "definition_vn": "Sự thay đổi",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "growth",
+      "label": "Growth",
+      "type": "noun",
+      "pronunciation": "/ɡrəʊθ/",
+      "definition_vn": "Sự tăng trưởng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "harmony",
+      "label": "Harmony",
+      "type": "noun",
+      "pronunciation": "/ˈhɑː.mə.ni/",
+      "definition_vn": "Sự hòa hợp",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "peace",
+      "label": "Peace",
+      "type": "noun",
+      "pronunciation": "/piːs/",
+      "definition_vn": "Hòa bình",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "justice",
+      "label": "Justice",
+      "type": "noun",
+      "pronunciation": "/ˈdʒʌs.tɪs/",
+      "definition_vn": "Sự công bằng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "truth",
+      "label": "Truth",
+      "type": "noun",
+      "pronunciation": "/truːθ/",
+      "definition_vn": "Sự thật",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "freedom",
+      "label": "Freedom",
+      "type": "noun",
+      "pronunciation": "/ˈfriː.dəm/",
+      "definition_vn": "Sự tự do",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "honor",
+      "label": "Honor",
+      "type": "noun",
+      "pronunciation": "/ˈɒn.ər/",
+      "definition_vn": "Danh dự",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "respect",
+      "label": "Respect",
+      "type": "noun",
+      "pronunciation": "/rɪˈspekt/",
+      "definition_vn": "Sự tôn trọng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "kindness",
+      "label": "Kindness",
+      "type": "noun",
+      "pronunciation": "/ˈkaɪnd.nəs/",
+      "definition_vn": "Sự tử tế",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "loyalty",
+      "label": "Loyalty",
+      "type": "noun",
+      "pronunciation": "/ˈlɔɪ.əl.ti/",
+      "definition_vn": "Sự trung thành",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "bravery",
+      "label": "Bravery",
+      "type": "noun",
+      "pronunciation": "/ˈbreɪ.vər.i/",
+      "definition_vn": "Lòng dũng cảm",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "wealth",
+      "label": "Wealth",
+      "type": "noun",
+      "pronunciation": "/welθ/",
+      "definition_vn": "Sự giàu có",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "health",
+      "label": "Health",
+      "type": "noun",
+      "pronunciation": "/helθ/",
+      "definition_vn": "Sức khỏe",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "beauty",
+      "label": "Beauty",
+      "type": "noun",
+      "pronunciation": "/ˈbjuː.ti/",
+      "definition_vn": "Vẻ đẹp",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "style",
+      "label": "Style",
+      "type": "noun",
+      "pronunciation": "/staɪl/",
+      "definition_vn": "Phong cách",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "tradition",
+      "label": "Tradition",
+      "type": "noun",
+      "pronunciation": "/trəˈdɪʃ.ən/",
+      "definition_vn": "Truyền thống",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "culture",
+      "label": "Culture",
+      "type": "noun",
+      "pronunciation": "/ˈkʌl.tʃər/",
+      "definition_vn": "Văn hóa",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "religion",
+      "label": "Religion",
+      "type": "noun",
+      "pronunciation": "/rɪˈlɪdʒ.ən/",
+      "definition_vn": "Tôn giáo",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "politics",
+      "label": "Politics",
+      "type": "noun",
+      "pronunciation": "/ˈpɒl.ə.tɪks/",
+      "definition_vn": "Chính trị",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "economics",
+      "label": "Economics",
+      "type": "noun",
+      "pronunciation": "/ˌiː.kəˈnɒm.ɪks/",
+      "definition_vn": "Kinh tế học",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "technology",
+      "label": "Technology",
+      "type": "noun",
+      "pronunciation": "/tekˈnɒl.ə.dʒi/",
+      "definition_vn": "Công nghệ",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "science",
+      "label": "Science",
+      "type": "noun",
+      "pronunciation": "/ˈsaɪ.əns/",
+      "definition_vn": "Khoa học",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "literature",
+      "label": "Literature",
+      "type": "noun",
+      "pronunciation": "/ˈlɪt.rə.tʃər/",
+      "definition_vn": "Văn học",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "education",
+      "label": "Education",
+      "type": "noun",
+      "pronunciation": "/ˌedʒ.ʊˈkeɪ.ʃən/",
+      "definition_vn": "Giáo dục",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "experience",
+      "label": "Experience",
+      "type": "noun",
+      "pronunciation": "/ɪkˈspɪə.ri.əns/",
+      "definition_vn": "Trải nghiệm",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "memory",
+      "label": "Memory",
+      "type": "noun",
+      "pronunciation": "/ˈmem.ər.i/",
+      "definition_vn": "Ký ức",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "dream",
+      "label": "Dream",
+      "type": "noun",
+      "pronunciation": "/driːm/",
+      "definition_vn": "Ước mơ",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "reality",
+      "label": "Reality",
+      "type": "noun",
+      "pronunciation": "/riˈæl.ə.ti/",
+      "definition_vn": "Thực tế",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "nature",
+      "label": "Nature",
+      "type": "noun",
+      "pronunciation": "/ˈneɪ.tʃər/",
+      "definition_vn": "Tự nhiên",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "environment",
+      "label": "Environment",
+      "type": "noun",
+      "pronunciation": "/ɪnˈvaɪ.rən.mənt/",
+      "definition_vn": "Môi trường",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "atmosphere",
+      "label": "Atmosphere",
+      "type": "noun",
+      "pronunciation": "/ˈæt.mə.sfɪər/",
+      "definition_vn": "Bầu không khí",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "temperature",
+      "label": "Temperature",
+      "type": "noun",
+      "pronunciation": "/ˈtem.prə.tʃər/",
+      "definition_vn": "Nhiệt độ",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "climate",
+      "label": "Climate",
+      "type": "noun",
+      "pronunciation": "/ˈklaɪ.mət/",
+      "definition_vn": "Khí hậu",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "season",
+      "label": "Season",
+      "type": "noun",
+      "pronunciation": "/ˈsiː.zən/",
+      "definition_vn": "Mùa",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "weather",
+      "label": "Weather",
+      "type": "noun",
+      "pronunciation": "/ˈweð.ər/",
+      "definition_vn": "Thời tiết",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "disaster",
+      "label": "Disaster",
+      "type": "noun",
+      "pronunciation": "/dɪˈzɑː.stər/",
+      "definition_vn": "Thảm họa",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "solution",
+      "label": "Solution",
+      "type": "noun",
+      "pronunciation": "/səˈluː.ʃən/",
+      "definition_vn": "Giải pháp",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "problem",
+      "label": "Problem",
+      "type": "noun",
+      "pronunciation": "/ˈprɒb.ləm/",
+      "definition_vn": "Vấn đề",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "conflict",
+      "label": "Conflict",
+      "type": "noun",
+      "pronunciation": "/ˈkɒn.flɪkt/",
+      "definition_vn": "Sự xung đột",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "resolution",
+      "label": "Resolution",
+      "type": "noun",
+      "pronunciation": "/ˌrez.əˈluː.ʃən/",
+      "definition_vn": "Sự giải quyết",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "communication",
+      "label": "Communication",
+      "type": "noun",
+      "pronunciation": "/kəˌmjuː.nɪˈkeɪ.ʃən/",
+      "definition_vn": "Giao tiếp",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "interaction",
+      "label": "Interaction",
+      "type": "noun",
+      "pronunciation": "/ˌɪn.təˈræk.ʃən/",
+      "definition_vn": "Sự tương tác",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "relationship",
+      "label": "Relationship",
+      "type": "noun",
+      "pronunciation": "/rɪˈleɪ.ʃən.ʃɪp/",
+      "definition_vn": "Mối quan hệ",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "connection",
+      "label": "Connection",
+      "type": "noun",
+      "pronunciation": "/kəˈnek.ʃən/",
+      "definition_vn": "Sự kết nối",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "partnership",
+      "label": "Partnership",
+      "type": "noun",
+      "pronunciation": "/ˈpɑːt.nə.ʃɪp/",
+      "definition_vn": "Sự cộng tác, đối tác",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "cooperation",
+      "label": "Cooperation",
+      "type": "noun",
+      "pronunciation": "/kəʊˌɒp.ərˈeɪ.ʃən/",
+      "definition_vn": "Sự hợp tác",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "community",
+      "label": "Community",
+      "type": "noun",
+      "pronunciation": "/kəˈmjuː.nə.ti/",
+      "definition_vn": "Cộng đồng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "society",
+      "label": "Society",
+      "type": "noun",
+      "pronunciation": "/səˈsaɪ.ə.ti/",
+      "definition_vn": "Xã hội",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "population",
+      "label": "Population",
+      "type": "noun",
+      "pronunciation": "/ˌpɒp.jəˈleɪ.ʃən/",
+      "definition_vn": "Dân số",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "nationality",
+      "label": "Nationality",
+      "type": "noun",
+      "pronunciation": "/ˌnæʃ.ənˈæl.ə.ti/",
+      "definition_vn": "Quốc tịch",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "civilization",
+      "label": "Civilization",
+      "type": "noun",
+      "pronunciation": "/ˌsɪv.əl.aɪˈzeɪ.ʃən/",
+      "definition_vn": "Nền văn minh",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "heritage",
+      "label": "Heritage",
+      "type": "noun",
+      "pronunciation": "/ˈher.ɪ.tɪdʒ/",
+      "definition_vn": "Di sản",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "liberty",
+      "label": "Liberty",
+      "type": "noun",
+      "pronunciation": "/ˈlɪb.ə.ti/",
+      "definition_vn": "Quyền tự do",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "justice",
+      "label": "Justice",
+      "type": "noun",
+      "pronunciation": "/ˈdʒʌs.tɪs/",
+      "definition_vn": "Công lý",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "charity",
+      "label": "Charity",
+      "type": "noun",
+      "pronunciation": "/ˈtʃær.ə.ti/",
+      "definition_vn": "Lòng từ thiện",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "donation",
+      "label": "Donation",
+      "type": "noun",
+      "pronunciation": "/dəʊˈneɪ.ʃən/",
+      "definition_vn": "Sự quyên góp",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "volunteer",
+      "label": "Volunteer",
+      "type": "noun",
+      "pronunciation": "/ˌvɒl.ənˈtɪər/",
+      "definition_vn": "Tình nguyện viên",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "influence",
+      "label": "Influence",
+      "type": "noun",
+      "pronunciation": "/ˈɪn.flu.əns/",
+      "definition_vn": "Sự ảnh hưởng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "authority",
+      "label": "Authority",
+      "type": "noun",
+      "pronunciation": "/ɔːˈθɒr.ə.ti/",
+      "definition_vn": "Quyền lực",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "leadership",
+      "label": "Leadership",
+      "type": "noun",
+      "pronunciation": "/ˈliː.də.ʃɪp/",
+      "definition_vn": "Lãnh đạo",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "government",
+      "label": "Government",
+      "type": "noun",
+      "pronunciation": "/ˈɡʌv.ən.mənt/",
+      "definition_vn": "Chính phủ",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "policy",
+      "label": "Policy",
+      "type": "noun",
+      "pronunciation": "/ˈpɒl.ə.si/",
+      "definition_vn": "Chính sách",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "regulation",
+      "label": "Regulation",
+      "type": "noun",
+      "pronunciation": "/ˌreɡ.jəˈleɪ.ʃən/",
+      "definition_vn": "Quy định",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "law",
+      "label": "Law",
+      "type": "noun",
+      "pronunciation": "/lɔː/",
+      "definition_vn": "Luật pháp",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "right",
+      "label": "Right",
+      "type": "noun",
+      "pronunciation": "/raɪt/",
+      "definition_vn": "Quyền lợi",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "duty",
+      "label": "Duty",
+      "type": "noun",
+      "pronunciation": "/ˈdjuː.ti/",
+      "definition_vn": "Nghĩa vụ",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "privacy",
+      "label": "Privacy",
+      "type": "noun",
+      "pronunciation": "/ˈprɪv.ə.si/",
+      "definition_vn": "Sự riêng tư",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "ethic",
+      "label": "Ethic",
+      "type": "noun",
+      "pronunciation": "/ˈeθ.ɪk/",
+      "definition_vn": "Đạo đức",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "morality",
+      "label": "Morality",
+      "type": "noun",
+      "pronunciation": "/məˈræl.ə.ti/",
+      "definition_vn": "Luân lý",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "philosophy",
+      "label": "Philosophy",
+      "type": "noun",
+      "pronunciation": "/fɪˈlɒs.ə.fi/",
+      "definition_vn": "Triết học",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "psychology",
+      "label": "Psychology",
+      "type": "noun",
+      "pronunciation": "/saɪˈkɒl.ə.dʒi/",
+      "definition_vn": "Tâm lý học",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "sociology",
+      "label": "Sociology",
+      "type": "noun",
+      "pronunciation": "/ˌsəʊ.siˈɒl.ə.dʒi/",
+      "definition_vn": "Xã hội học",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "history",
+      "label": "History",
+      "type": "noun",
+      "pronunciation": "/ˈhɪs.tər.i/",
+      "definition_vn": "Lịch sử",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "geography",
+      "label": "Geography",
+      "type": "noun",
+      "pronunciation": "/dʒiˈɒɡ.rə.fi/",
+      "definition_vn": "Địa lý",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "economy",
+      "label": "Economy",
+      "type": "noun",
+      "pronunciation": "/iˈkɒn.ə.mi/",
+      "definition_vn": "Nền kinh tế",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "finance",
+      "label": "Finance",
+      "type": "noun",
+      "pronunciation": "/ˈfaɪ.næns/",
+      "definition_vn": "Tài chính",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "investment",
+      "label": "Investment",
+      "type": "noun",
+      "pronunciation": "/ɪnˈvest.mənt/",
+      "definition_vn": "Sự đầu tư",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "entrepreneur",
+      "label": "Entrepreneur",
+      "type": "noun",
+      "pronunciation": "/ˌɒn.trə.prəˈnɜːr/",
+      "definition_vn": "Doanh nhân",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "startup",
+      "label": "Startup",
+      "type": "noun",
+      "pronunciation": "/ˈstɑːt.ʌp/",
+      "definition_vn": "Khởi nghiệp",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "corporation",
+      "label": "Corporation",
+      "type": "noun",
+      "pronunciation": "/ˌkɔː.pərˈeɪ.ʃən/",
+      "definition_vn": "Tập đoàn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "market",
+      "label": "Market",
+      "type": "noun",
+      "pronunciation": "/ˈmɑː.kɪt/",
+      "definition_vn": "Thị trường",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "competition",
+      "label": "Competition",
+      "type": "noun",
+      "pronunciation": "/ˌkɒm.pəˈtɪʃ.ən/",
+      "definition_vn": "Sự cạnh tranh",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "consumer",
+      "label": "Consumer",
+      "type": "noun",
+      "pronunciation": "/kənˈsjuː.mər/",
+      "definition_vn": "Người tiêu dùng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "service",
+      "label": "Service",
+      "type": "noun",
+      "pronunciation": "/ˈsɜː.vɪs/",
+      "definition_vn": "Dịch vụ",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "type": "noun",
+      "pronunciation": "/ˈprɒd.ʌkt/",
+      "definition_vn": "Sản phẩm",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "manufacture",
+      "label": "Manufacture",
+      "type": "verb",
+      "pronunciation": "/ˌmæn.jəˈfæk.tʃər/",
+      "definition_vn": "Sản xuất",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "trade",
+      "label": "Trade",
+      "type": "noun",
+      "pronunciation": "/treɪd/",
+      "definition_vn": "Thương mại",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "export",
+      "label": "Export",
+      "type": "noun",
+      "pronunciation": "/ˈek.spɔːt/",
+      "definition_vn": "Xuất khẩu",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "import",
+      "label": "Import",
+      "type": "noun",
+      "pronunciation": "/ˈɪm.pɔːt/",
+      "definition_vn": "Nhập khẩu",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "logistics",
+      "label": "Logistics",
+      "type": "noun",
+      "pronunciation": "/ləˈdʒɪs.tɪks/",
+      "definition_vn": "Hậu cần",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "strategy",
+      "label": "Strategy",
+      "type": "noun",
+      "pronunciation": "/ˈstræt.ə.dʒi/",
+      "definition_vn": "Chiến lược",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "innovation",
+      "label": "Innovation",
+      "type": "noun",
+      "pronunciation": "/ˌɪn.əˈveɪ.ʃən/",
+      "definition_vn": "Sự đổi mới",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "efficiency",
+      "label": "Efficiency",
+      "type": "noun",
+      "pronunciation": "/ɪˈfɪʃ.ən.si/",
+      "definition_vn": "Sự hiệu quả",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "sustainability",
+      "label": "Sustainability",
+      "type": "noun",
+      "pronunciation": "/səˌsteɪ.nəˈbɪl.ə.ti/",
+      "definition_vn": "Sự bền vững",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "global",
+      "label": "Global",
+      "type": "adj",
+      "pronunciation": "/ˈɡləʊ.bəl/",
+      "definition_vn": "Toàn cầu",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "universal",
+      "label": "Universal",
+      "type": "adj",
+      "pronunciation": "/ˌjuː.nɪˈvɜː.səl/",
+      "definition_vn": "Phổ quát",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "local",
+      "label": "Local",
+      "type": "adj",
+      "pronunciation": "/ˈləʊ.kəl/",
+      "definition_vn": "Địa phương",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "digital",
+      "label": "Digital",
+      "type": "adj",
+      "pronunciation": "/ˈdɪdʒ.ɪ.təl/",
+      "definition_vn": "Kỹ thuật số",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "virtual",
+      "label": "Virtual",
+      "type": "adj",
+      "pronunciation": "/ˈvɜː.tʃu.əl/",
+      "definition_vn": "Ảo",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "smart",
+      "label": "Smart",
+      "type": "adj",
+      "pronunciation": "/smɑːt/",
+      "definition_vn": "Thông minh",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "mobile",
+      "label": "Mobile",
+      "type": "adj",
+      "pronunciation": "/ˈməʊ.baɪl/",
+      "definition_vn": "Di động",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "wireless",
+      "label": "Wireless",
+      "type": "adj",
+      "pronunciation": "/ˈwaɪə.ləs/",
+      "definition_vn": "Không dây",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "online",
+      "label": "Online",
+      "type": "adj",
+      "pronunciation": "/ˌɒnˈlaɪn/",
+      "definition_vn": "Trực tuyến",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "interactive",
+      "label": "Interactive",
+      "type": "adj",
+      "pronunciation": "/ˌɪn.təˈræk.tɪv/",
+      "definition_vn": "Có tính tương tác",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "advanced",
+      "label": "Advanced",
+      "type": "adj",
+      "pronunciation": "/ədˈvɑːnst/",
+      "definition_vn": "Tiên tiến",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "basic",
+      "label": "Basic",
+      "type": "adj",
+      "pronunciation": "/ˈbeɪ.sɪk/",
+      "definition_vn": "Cơ bản",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "complex",
+      "label": "Complex",
+      "type": "adj",
+      "pronunciation": "/ˈkɒm.pleks/",
+      "definition_vn": "Phức tạp",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "type": "adj",
+      "pronunciation": "/ˈsɪm.pl̩/",
+      "definition_vn": "Đơn giản",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "flexible",
+      "label": "Flexible",
+      "type": "adj",
+      "pronunciation": "/ˈflek.sə.bl̩/",
+      "definition_vn": "Linh hoạt",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "fixed",
+      "label": "Fixed",
+      "type": "adj",
+      "pronunciation": "/fɪkst/",
+      "definition_vn": "Cố định",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "dynamic",
+      "label": "Dynamic",
+      "type": "adj",
+      "pronunciation": "/daɪˈnæm.ɪk/",
+      "definition_vn": "Năng động, biến đổi nhanh",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "stable",
+      "label": "Stable",
+      "type": "adj",
+      "pronunciation": "/ˈsteɪ.bl̩/",
+      "definition_vn": "Ổn định",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "efficient",
+      "label": "Efficient",
+      "type": "adj",
+      "pronunciation": "/ɪˈfɪʃ.ənt/",
+      "definition_vn": "Hiệu quả",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "effective",
+      "label": "Effective",
+      "type": "adj",
+      "pronunciation": "/ɪˈfek.tɪv/",
+      "definition_vn": "Có kết quả tốt",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "reliable",
+      "label": "Reliable",
+      "type": "adj",
+      "pronunciation": "/rɪˈlaɪ.ə.bl̩/",
+      "definition_vn": "Đáng tin cậy",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "secure",
+      "label": "Secure",
+      "type": "adj",
+      "pronunciation": "/sɪˈkjʊər/",
+      "definition_vn": "An toàn, bảo mật",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "private",
+      "label": "Private",
+      "type": "adj",
+      "pronunciation": "/ˈpraɪ.vət/",
+      "definition_vn": "Riêng tư",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "public",
+      "label": "Public",
+      "type": "adj",
+      "pronunciation": "/ˈpʌb.lɪk/",
+      "definition_vn": "Công khai",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "general",
+      "label": "General",
+      "type": "adj",
+      "pronunciation": "/ˈdʒen.ər.əl/",
+      "definition_vn": "Chung",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "specific",
+      "label": "Specific",
+      "type": "adj",
+      "pronunciation": "/spəˈsɪf.ɪk/",
+      "definition_vn": "Cụ thể",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "essential",
+      "label": "Essential",
+      "type": "adj",
+      "pronunciation": "/ɪˈsen.ʃəl/",
+      "definition_vn": "Thiết yếu",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "crucial",
+      "label": "Crucial",
+      "type": "adj",
+      "pronunciation": "/ˈkruː.ʃəl/",
+      "definition_vn": "Quan trọng, then chốt",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "significant",
+      "label": "Significant",
+      "type": "adj",
+      "pronunciation": "/sɪɡˈnɪf.ɪ.kənt/",
+      "definition_vn": "Có ý nghĩa lớn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "excellent",
+      "label": "Excellent",
+      "type": "adj",
+      "pronunciation": "/ˈek.səl.ənt/",
+      "definition_vn": "Xuất sắc",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "average",
+      "label": "Average",
+      "type": "adj",
+      "pronunciation": "/ˈæv.ər.ɪdʒ/",
+      "definition_vn": "Trung bình",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "poor",
+      "label": "Poor",
+      "type": "adj",
+      "pronunciation": "/pɔːr/",
+      "definition_vn": "Kém, nghèo",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "wealthy",
+      "label": "Wealthy",
+      "type": "adj",
+      "pronunciation": "/ˈwel.θi/",
+      "definition_vn": "Giàu có",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "healthy",
+      "label": "Healthy",
+      "type": "adj",
+      "pronunciation": "/ˈhel.θi/",
+      "definition_vn": "Khỏe mạnh",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "ancient",
+      "label": "Ancient",
+      "type": "adj",
+      "pronunciation": "/ˈeɪn.ʃənt/",
+      "definition_vn": "Cổ xưa",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "modern",
+      "label": "Modern",
+      "type": "adj",
+      "pronunciation": "/ˈmɒd.ən/",
+      "definition_vn": "Hiện đại",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "future",
+      "label": "Future",
+      "type": "adj",
+      "pronunciation": "/ˈfjuː.tʃər/",
+      "definition_vn": "Thuộc về tương lai",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "past",
+      "label": "Past",
+      "type": "adj",
+      "pronunciation": "/pɑːst/",
+      "definition_vn": "Thuộc về quá khứ",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "temporary",
+      "label": "Temporary",
+      "type": "adj",
+      "pronunciation": "/ˈtem.pər.ər.i/",
+      "definition_vn": "Tạm thời",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "permanent",
+      "label": "Permanent",
+      "type": "adj",
+      "pronunciation": "/ˈpɜː.mə.nənt/",
+      "definition_vn": "Vĩnh viễn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "brief",
+      "label": "Brief",
+      "type": "adj",
+      "pronunciation": "/briːf/",
+      "definition_vn": "Ngắn gọn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "infinite",
+      "label": "Infinite",
+      "type": "adj",
+      "pronunciation": "/ˈɪn.fɪ.nət/",
+      "definition_vn": "Vô tận",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "multiple",
+      "label": "Multiple",
+      "type": "adj",
+      "pronunciation": "/ˈmʌl.tɪ.pl̩/",
+      "definition_vn": "Nhiều, đa dạng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "individual",
+      "label": "Individual",
+      "type": "adj",
+      "pronunciation": "/ˌɪn.dɪˈvɪdʒ.u.əl/",
+      "definition_vn": "Cá nhân",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "collective",
+      "label": "Collective",
+      "type": "adj",
+      "pronunciation": "/kəˈlek.tɪv/",
+      "definition_vn": "Tập thể",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "formal",
+      "label": "Formal",
+      "type": "adj",
+      "pronunciation": "/ˈfɔː.məl/",
+      "definition_vn": "Trang trọng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "informal",
+      "label": "Informal",
+      "type": "adj",
+      "pronunciation": "/ɪnˈfɔː.məl/",
+      "definition_vn": "Thân mật, không trang trọng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "logical",
+      "label": "Logical",
+      "type": "adj",
+      "pronunciation": "/ˈlɒdʒ.ɪ.kəl/",
+      "definition_vn": "Hợp lý",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "random",
+      "label": "Random",
+      "type": "adj",
+      "pronunciation": "/ˈræn.dəm/",
+      "definition_vn": "Ngẫu nhiên",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "absolute",
+      "label": "Absolute",
+      "type": "adj",
+      "pronunciation": "/ˈæb.sə.luːt/",
+      "definition_vn": "Tuyệt đối",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "relative",
+      "label": "Relative",
+      "type": "adj",
+      "pronunciation": "/ˈrel.ə.tɪv/",
+      "definition_vn": "Tương đối",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "consistent",
+      "label": "Consistent",
+      "type": "adj",
+      "pronunciation": "/kənˈsɪs.tənt/",
+      "definition_vn": "Nhất quán",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "contradictory",
+      "label": "Contradictory",
+      "type": "adj",
+      "pronunciation": "/ˌkɒn.trəˈdɪk.tər.i/",
+      "definition_vn": "Mâu thuẫn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "accurate",
+      "label": "Accurate",
+      "type": "adj",
+      "pronunciation": "/ˈæk.jə.rət/",
+      "definition_vn": "Chính xác",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "vague",
+      "label": "Vague",
+      "type": "adj",
+      "pronunciation": "/veɪɡ/",
+      "definition_vn": "Mơ hồ",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "obvious",
+      "label": "Obvious",
+      "type": "adj",
+      "pronunciation": "/ˈɒb.vi.əs/",
+      "definition_vn": "Hiển nhiên",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "hidden",
+      "label": "Hidden",
+      "type": "adj",
+      "pronunciation": "/ˈhɪd.n̩/",
+      "definition_vn": "Bị ẩn, dấu kín",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "diverse",
+      "label": "Diverse",
+      "type": "adj",
+      "pronunciation": "/daɪˈvɜːs/",
+      "definition_vn": "Đa dạng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "unique",
+      "label": "Unique",
+      "type": "adj",
+      "pronunciation": "/juːˈniːk/",
+      "definition_vn": "Độc nhất",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "common",
+      "label": "Common",
+      "type": "adj",
+      "pronunciation": "/ˈkɒm.ən/",
+      "definition_vn": "Phổ biến",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "rare",
+      "label": "Rare",
+      "type": "adj",
+      "pronunciation": "/reər/",
+      "definition_vn": "Hiếm",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "standard",
+      "label": "Standard",
+      "type": "adj",
+      "pronunciation": "/ˈstæn.dəd/",
+      "definition_vn": "Tiêu chuẩn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "exceptional",
+      "label": "Exceptional",
+      "type": "adj",
+      "pronunciation": "/ɪkˈsep.ʃən.əl/",
+      "definition_vn": "Ngoại lệ, khác biệt",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "natural",
+      "label": "Natural",
+      "type": "adj",
+      "pronunciation": "/ˈnætʃ.ər.əl/",
+      "definition_vn": "Tự nhiên",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "artificial",
+      "label": "Artificial",
+      "type": "adj",
+      "pronunciation": "/ˌɑː.tɪˈfɪʃ.əl/",
+      "definition_vn": "Nhân tạo",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "actual",
+      "label": "Actual",
+      "type": "adj",
+      "pronunciation": "/ˈæk.tʃu.əl/",
+      "definition_vn": "Thực tế",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "virtual",
+      "label": "Virtual",
+      "type": "adj",
+      "pronunciation": "/ˈvɜː.tʃu.əl/",
+      "definition_vn": "Ảo",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "practical",
+      "label": "Practical",
+      "type": "adj",
+      "pronunciation": "/ˈpræk.tɪ.kəl/",
+      "definition_vn": "Thực tiễn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "theoretical",
+      "label": "Theoretical",
+      "type": "adj",
+      "pronunciation": "/ˌθɪəˈret.ɪ.kəl/",
+      "definition_vn": "Lý thuyết",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "possible",
+      "label": "Possible",
+      "type": "adj",
+      "pronunciation": "/ˈpɒs.ə.bl̩/",
+      "definition_vn": "Có khả năng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "impossible",
+      "label": "Impossible",
+      "type": "adj",
+      "pronunciation": "/ɪmˈpɒs.ə.bl̩/",
+      "definition_vn": "Không thể",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "probable",
+      "label": "Probable",
+      "type": "adj",
+      "pronunciation": "/ˈprɒb.ə.bl̩/",
+      "definition_vn": "Có xác suất cao",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "doubtful",
+      "label": "Doubtful",
+      "type": "adj",
+      "pronunciation": "/ˈdaʊt.fəl/",
+      "definition_vn": "Đầy nghi ngờ",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "certain",
+      "label": "Certain",
+      "type": "adj",
+      "pronunciation": "/ˈsɜː.tən/",
+      "definition_vn": "Chắc chắn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "uncertain",
+      "label": "Uncertain",
+      "type": "adj",
+      "pronunciation": "/ʌnˈsɜː.tən/",
+      "definition_vn": "Không chắc chắn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "necessary",
+      "label": "Necessary",
+      "type": "adj",
+      "pronunciation": "/ˈnes.ə.ser.i/",
+      "definition_vn": "Cần thiết",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "optional",
+      "label": "Optional",
+      "type": "adj",
+      "pronunciation": "/ˈɒp.ʃən.əl/",
+      "definition_vn": "Tùy chọn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "mandatory",
+      "label": "Mandatory",
+      "type": "adj",
+      "pronunciation": "/ˈmæn.də.tər.i/",
+      "definition_vn": "Bắt buộc",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "legal",
+      "label": "Legal",
+      "type": "adj",
+      "pronunciation": "/ˈliː.ɡəl/",
+      "definition_vn": "Hợp pháp",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "illegal",
+      "label": "Illegal",
+      "type": "adj",
+      "pronunciation": "/ɪˈliː.ɡəl/",
+      "definition_vn": "Bất hợp pháp",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "ethical",
+      "label": "Ethical",
+      "type": "adj",
+      "pronunciation": "/ˈeθ.ɪ.kəl/",
+      "definition_vn": "Thuộc về đạo đức",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "fair",
+      "label": "Fair",
+      "type": "adj",
+      "pronunciation": "/feər/",
+      "definition_vn": "Công bằng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "biased",
+      "label": "Biased",
+      "type": "adj",
+      "pronunciation": "/ˈbaɪ.əst/",
+      "definition_vn": "Lệch lạc, không công bằng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "neutral",
+      "label": "Neutral",
+      "type": "adj",
+      "pronunciation": "/ˈnjuː.trəl/",
+      "definition_vn": "Trung lập",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "objective",
+      "label": "Objective",
+      "type": "adj",
+      "pronunciation": "/əbˈdʒek.tɪv/",
+      "definition_vn": "Khách quan",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "subjective",
+      "label": "Subjective",
+      "type": "adj",
+      "pronunciation": "/səbˈdʒek.tɪv/",
+      "definition_vn": "Chủ quan",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "critical",
+      "label": "Critical",
+      "type": "adj",
+      "pronunciation": "/ˈkrɪt.ɪ.kəl/",
+      "definition_vn": "Phê bình, then chốt",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "constructive",
+      "label": "Constructive",
+      "type": "adj",
+      "pronunciation": "/kənˈstrʌk.tɪv/",
+      "definition_vn": "Mang tính xây dựng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "positive",
+      "label": "Positive",
+      "type": "adj",
+      "pronunciation": "/ˈpɒz.ə.tɪv/",
+      "definition_vn": "Tích cực",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "negative",
+      "label": "Negative",
+      "type": "adj",
+      "pronunciation": "/ˈneɡ.ə.tɪv/",
+      "definition_vn": "Tiêu cực",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "optimistic",
+      "label": "Optimistic",
+      "type": "adj",
+      "pronunciation": "/ˌɒp.tɪˈmɪs.tɪk/",
+      "definition_vn": "Lạc quan",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "pessimistic",
+      "label": "Pessimistic",
+      "type": "adj",
+      "pronunciation": "/ˌpes.ɪˈmɪs.tɪk/",
+      "definition_vn": "Bi quan",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "confident",
+      "label": "Confident",
+      "type": "adj",
+      "pronunciation": "/ˈconfɪdənt/",
+      "definition_vn": "Tự tin",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "anxious",
+      "label": "Anxious",
+      "type": "adj",
+      "pronunciation": "/ˈæŋk.ʃəs/",
+      "definition_vn": "Lo lắng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "relaxed",
+      "label": "Relaxed",
+      "type": "adj",
+      "pronunciation": "/rɪˈlækst/",
+      "definition_vn": "Thư giãn",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "intense",
+      "label": "Intense",
+      "type": "adj",
+      "pronunciation": "/ɪnˈtens/",
+      "definition_vn": "Dữ dội, căng thẳng",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "harmonious",
+      "label": "Harmonious",
+      "type": "adj",
+      "pronunciation": "/hɑːˈməʊ.ni.əs/",
+      "definition_vn": "Hòa hợp",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "conflicting",
+      "label": "Conflicting",
+      "type": "adj",
+      "pronunciation": "/kənˈflɪk.tɪŋ/",
+      "definition_vn": "Xung đột",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "helpful",
+      "label": "Helpful",
+      "type": "adj",
+      "pronunciation": "/ˈhelp.fəl/",
+      "definition_vn": "Giúp ích",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "harmful",
+      "label": "Harmful",
+      "type": "adj",
+      "pronunciation": "/ˈhɑːm.fəl/",
+      "definition_vn": "Có hại",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "productive",
+      "label": "Productive",
+      "type": "adj",
+      "pronunciation": "/prəˈdʌk.tɪv/",
+      "definition_vn": "Năng suất",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "creative",
+      "label": "Creative",
+      "type": "adj",
+      "pronunciation": "/kriˈeɪ.tɪv/",
+      "definition_vn": "Sáng tạo",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "innovative",
+      "label": "Innovative",
+      "type": "adj",
+      "pronunciation": "/ˈɪn.ə.veɪ.tɪv/",
+      "definition_vn": "Đổi mới",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "traditional",
+      "label": "Traditional",
+      "type": "adj",
+      "pronunciation": "/trəˈdɪʃ.ən.əl/",
+      "definition_vn": "Truyền thống",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "modern",
+      "label": "Modern",
+      "type": "adj",
+      "pronunciation": "/ˈmɒd.ən/",
+      "definition_vn": "Hiện đại",
+      "unit": "Daily",
+      "group": 5
+    },
+    {
+      "id": "ancient",
+      "label": "Ancient",
+      "type": "adj",
+      "pronunciation": "/ˈeɪn.ʃənt/",
+      "definition_vn": "Cổ kính",
+      "unit": "Daily",
+      "group": 5
+    }
+  ],
+  "links": [
+    {
+      "source": "neural network",
+      "target": "deep learning",
+      "weight": 0.674
+    },
+    {
+      "source": "neural network",
+      "target": "machine learning",
+      "weight": 0.579
+    },
+    {
+      "source": "neural network",
+      "target": "classification",
+      "weight": 0.528
+    },
+    {
+      "source": "deep learning",
+      "target": "machine learning",
+      "weight": 0.689
+    },
+    {
+      "source": "deep learning",
+      "target": "supervised",
+      "weight": 0.522
+    },
+    {
+      "source": "deep learning",
+      "target": "classification",
+      "weight": 0.508
+    },
+    {
+      "source": "machine learning",
+      "target": "classification",
+      "weight": 0.717
+    },
+    {
+      "source": "machine learning",
+      "target": "supervised",
+      "weight": 0.662
+    },
+    {
+      "source": "machine learning",
+      "target": "prediction",
+      "weight": 0.588
+    },
+    {
+      "source": "prompt engineering",
+      "target": "interactive",
+      "weight": 0.533
+    },
+    {
+      "source": "algorithm",
+      "target": "clustering",
+      "weight": 0.517
+    },
+    {
+      "source": "time",
+      "target": "hour",
+      "weight": 0.622
+    },
+    {
+      "source": "time",
+      "target": "minute",
+      "weight": 0.575
+    },
+    {
+      "source": "time",
+      "target": "past",
+      "weight": 0.515
+    },
+    {
+      "source": "year",
+      "target": "season",
+      "weight": 0.654
+    },
+    {
+      "source": "year",
+      "target": "month",
+      "weight": 0.654
+    },
+    {
+      "source": "year",
+      "target": "week",
+      "weight": 0.537
+    },
+    {
+      "source": "people",
+      "target": "individual",
+      "weight": 0.654
+    },
+    {
+      "source": "people",
+      "target": "person",
+      "weight": 0.617
+    },
+    {
+      "source": "people",
+      "target": "group",
+      "weight": 0.596
+    },
+    {
+      "source": "people",
+      "target": "family",
+      "weight": 0.537
+    },
+    {
+      "source": "day",
+      "target": "morning",
+      "weight": 0.566
+    },
+    {
+      "source": "day",
+      "target": "night",
+      "weight": 0.549
+    },
+    {
+      "source": "day",
+      "target": "week",
+      "weight": 0.546
+    },
+    {
+      "source": "day",
+      "target": "celebrate",
+      "weight": 0.505
+    },
+    {
+      "source": "man",
+      "target": "mr",
+      "weight": 0.539
+    },
+    {
+      "source": "woman",
+      "target": "person",
+      "weight": 0.638
+    },
+    {
+      "source": "woman",
+      "target": "mother",
+      "weight": 0.549
+    },
+    {
+      "source": "life",
+      "target": "world",
+      "weight": 0.622
+    },
+    {
+      "source": "life",
+      "target": "job",
+      "weight": 0.536
+    },
+    {
+      "source": "life",
+      "target": "religion",
+      "weight": 0.524
+    },
+    {
+      "source": "life",
+      "target": "money",
+      "weight": 0.512
+    },
+    {
+      "source": "child",
+      "target": "kid",
+      "weight": 0.81
+    },
+    {
+      "source": "child",
+      "target": "parent",
+      "weight": 0.702
+    },
+    {
+      "source": "child",
+      "target": "father",
+      "weight": 0.585
+    },
+    {
+      "source": "child",
+      "target": "mother",
+      "weight": 0.548
+    },
+    {
+      "source": "world",
+      "target": "global",
+      "weight": 0.63
+    },
+    {
+      "source": "world",
+      "target": "country",
+      "weight": 0.565
+    },
+    {
+      "source": "world",
+      "target": "game",
+      "weight": 0.523
+    },
+    {
+      "source": "school",
+      "target": "education",
+      "weight": 0.736
+    },
+    {
+      "source": "school",
+      "target": "education",
+      "weight": 0.736
+    },
+    {
+      "source": "school",
+      "target": "student",
+      "weight": 0.65
+    },
+    {
+      "source": "school",
+      "target": "science",
+      "weight": 0.568
+    },
+    {
+      "source": "state",
+      "target": "country",
+      "weight": 0.576
+    },
+    {
+      "source": "state",
+      "target": "government",
+      "weight": 0.548
+    },
+    {
+      "source": "state",
+      "target": "government",
+      "weight": 0.548
+    },
+    {
+      "source": "state",
+      "target": "city",
+      "weight": 0.541
+    },
+    {
+      "source": "family",
+      "target": "parent",
+      "weight": 0.634
+    },
+    {
+      "source": "family",
+      "target": "father",
+      "weight": 0.605
+    },
+    {
+      "source": "family",
+      "target": "mother",
+      "weight": 0.592
+    },
+    {
+      "source": "family",
+      "target": "house",
+      "weight": 0.562
+    },
+    {
+      "source": "student",
+      "target": "study",
+      "weight": 0.603
+    },
+    {
+      "source": "student",
+      "target": "education",
+      "weight": 0.597
+    },
+    {
+      "source": "student",
+      "target": "education",
+      "weight": 0.597
+    },
+    {
+      "source": "group",
+      "target": "collective",
+      "weight": 0.692
+    },
+    {
+      "source": "group",
+      "target": "team",
+      "weight": 0.653
+    },
+    {
+      "source": "group",
+      "target": "community",
+      "weight": 0.588
+    },
+    {
+      "source": "country",
+      "target": "nationality",
+      "weight": 0.595
+    },
+    {
+      "source": "country",
+      "target": "government",
+      "weight": 0.551
+    },
+    {
+      "source": "problem",
+      "target": "problem",
+      "weight": 1.0
+    },
+    {
+      "source": "problem",
+      "target": "issue",
+      "weight": 0.827
+    },
+    {
+      "source": "problem",
+      "target": "solution",
+      "weight": 0.682
+    },
+    {
+      "source": "problem",
+      "target": "solution",
+      "weight": 0.682
+    },
+    {
+      "source": "part",
+      "target": "product",
+      "weight": 0.533
+    },
+    {
+      "source": "part",
+      "target": "side",
+      "weight": 0.52
+    },
+    {
+      "source": "part",
+      "target": "case",
+      "weight": 0.504
+    },
+    {
+      "source": "place",
+      "target": "room",
+      "weight": 0.583
+    },
+    {
+      "source": "place",
+      "target": "house",
+      "weight": 0.571
+    },
+    {
+      "source": "place",
+      "target": "area",
+      "weight": 0.567
+    },
+    {
+      "source": "place",
+      "target": "home",
+      "weight": 0.567
+    },
+    {
+      "source": "week",
+      "target": "month",
+      "weight": 0.607
+    },
+    {
+      "source": "week",
+      "target": "season",
+      "weight": 0.568
+    },
+    {
+      "source": "company",
+      "target": "corporation",
+      "weight": 0.854
+    },
+    {
+      "source": "company",
+      "target": "business",
+      "weight": 0.707
+    },
+    {
+      "source": "company",
+      "target": "manufacture",
+      "weight": 0.665
+    },
+    {
+      "source": "company",
+      "target": "ownership",
+      "weight": 0.593
+    },
+    {
+      "source": "system",
+      "target": "service",
+      "weight": 0.621
+    },
+    {
+      "source": "system",
+      "target": "service",
+      "weight": 0.621
+    },
+    {
+      "source": "system",
+      "target": "society",
+      "weight": 0.51
+    },
+    {
+      "source": "system",
+      "target": "control",
+      "weight": 0.5
+    },
+    {
+      "source": "program",
+      "target": "process",
+      "weight": 0.529
+    },
+    {
+      "source": "program",
+      "target": "interactive",
+      "weight": 0.529
+    },
+    {
+      "source": "question",
+      "target": "problem",
+      "weight": 0.591
+    },
+    {
+      "source": "question",
+      "target": "curious",
+      "weight": 0.555
+    },
+    {
+      "source": "question",
+      "target": "explain",
+      "weight": 0.533
+    },
+    {
+      "source": "work",
+      "target": "job",
+      "weight": 0.775
+    },
+    {
+      "source": "work",
+      "target": "career",
+      "weight": 0.561
+    },
+    {
+      "source": "work",
+      "target": "teamwork",
+      "weight": 0.559
+    },
+    {
+      "source": "work",
+      "target": "office",
+      "weight": 0.521
+    },
+    {
+      "source": "government",
+      "target": "government",
+      "weight": 1.0
+    },
+    {
+      "source": "government",
+      "target": "politics",
+      "weight": 0.686
+    },
+    {
+      "source": "government",
+      "target": "authority",
+      "weight": 0.613
+    },
+    {
+      "source": "government",
+      "target": "authority",
+      "weight": 0.613
+    },
+    {
+      "source": "number",
+      "target": "value",
+      "weight": 0.58
+    },
+    {
+      "source": "night",
+      "target": "morning",
+      "weight": 0.648
+    },
+    {
+      "source": "point",
+      "target": "explain",
+      "weight": 0.53
+    },
+    {
+      "source": "home",
+      "target": "house",
+      "weight": 0.804
+    },
+    {
+      "source": "home",
+      "target": "back",
+      "weight": 0.502
+    },
+    {
+      "source": "water",
+      "target": "science",
+      "weight": 0.511
+    },
+    {
+      "source": "room",
+      "target": "house",
+      "weight": 0.628
+    },
+    {
+      "source": "room",
+      "target": "area",
+      "weight": 0.563
+    },
+    {
+      "source": "room",
+      "target": "door",
+      "weight": 0.515
+    },
+    {
+      "source": "mother",
+      "target": "father",
+      "weight": 0.732
+    },
+    {
+      "source": "mother",
+      "target": "parent",
+      "weight": 0.718
+    },
+    {
+      "source": "area",
+      "target": "city",
+      "weight": 0.543
+    },
+    {
+      "source": "money",
+      "target": "wealth",
+      "weight": 0.692
+    },
+    {
+      "source": "money",
+      "target": "budget",
+      "weight": 0.595
+    },
+    {
+      "source": "money",
+      "target": "revenue",
+      "weight": 0.581
+    },
+    {
+      "source": "money",
+      "target": "wealthy",
+      "weight": 0.579
+    },
+    {
+      "source": "fact",
+      "target": "truth",
+      "weight": 0.588
+    },
+    {
+      "source": "fact",
+      "target": "reality",
+      "weight": 0.523
+    },
+    {
+      "source": "fact",
+      "target": "obvious",
+      "weight": 0.504
+    },
+    {
+      "source": "month",
+      "target": "season",
+      "weight": 0.606
+    },
+    {
+      "source": "right",
+      "target": "right",
+      "weight": 1.0
+    },
+    {
+      "source": "right",
+      "target": "accurate",
+      "weight": 0.503
+    },
+    {
+      "source": "study",
+      "target": "research",
+      "weight": 0.661
+    },
+    {
+      "source": "study",
+      "target": "education",
+      "weight": 0.6
+    },
+    {
+      "source": "study",
+      "target": "education",
+      "weight": 0.6
+    },
+    {
+      "source": "book",
+      "target": "literature",
+      "weight": 0.643
+    },
+    {
+      "source": "book",
+      "target": "library",
+      "weight": 0.532
+    },
+    {
+      "source": "eye",
+      "target": "vision",
+      "weight": 0.711
+    },
+    {
+      "source": "eye",
+      "target": "face",
+      "weight": 0.619
+    },
+    {
+      "source": "job",
+      "target": "career",
+      "weight": 0.676
+    },
+    {
+      "source": "job",
+      "target": "business",
+      "weight": 0.579
+    },
+    {
+      "source": "business",
+      "target": "corporation",
+      "weight": 0.686
+    },
+    {
+      "source": "business",
+      "target": "economy",
+      "weight": 0.662
+    },
+    {
+      "source": "business",
+      "target": "entrepreneur",
+      "weight": 0.644
+    },
+    {
+      "source": "issue",
+      "target": "problem",
+      "weight": 0.827
+    },
+    {
+      "source": "issue",
+      "target": "fixed",
+      "weight": 0.615
+    },
+    {
+      "source": "issue",
+      "target": "conflicting",
+      "weight": 0.577
+    },
+    {
+      "source": "kind",
+      "target": "kindness",
+      "weight": 0.524
+    },
+    {
+      "source": "kind",
+      "target": "polite",
+      "weight": 0.507
+    },
+    {
+      "source": "head",
+      "target": "face",
+      "weight": 0.585
+    },
+    {
+      "source": "service",
+      "target": "service",
+      "weight": 1.0
+    },
+    {
+      "source": "service",
+      "target": "customer",
+      "weight": 0.605
+    },
+    {
+      "source": "father",
+      "target": "parent",
+      "weight": 0.746
+    },
+    {
+      "source": "power",
+      "target": "ability",
+      "weight": 0.558
+    },
+    {
+      "source": "power",
+      "target": "energetic",
+      "weight": 0.546
+    },
+    {
+      "source": "power",
+      "target": "force",
+      "weight": 0.526
+    },
+    {
+      "source": "hour",
+      "target": "minute",
+      "weight": 0.596
+    },
+    {
+      "source": "game",
+      "target": "team",
+      "weight": 0.586
+    },
+    {
+      "source": "game",
+      "target": "goal",
+      "weight": 0.566
+    },
+    {
+      "source": "game",
+      "target": "war",
+      "weight": 0.531
+    },
+    {
+      "source": "game",
+      "target": "party",
+      "weight": 0.531
+    },
+    {
+      "source": "member",
+      "target": "team",
+      "weight": 0.525
+    },
+    {
+      "source": "member",
+      "target": "level",
+      "weight": 0.512
+    },
+    {
+      "source": "member",
+      "target": "collective",
+      "weight": 0.502
+    },
+    {
+      "source": "law",
+      "target": "law",
+      "weight": 1.0
+    },
+    {
+      "source": "law",
+      "target": "legal",
+      "weight": 0.676
+    },
+    {
+      "source": "law",
+      "target": "government",
+      "weight": 0.552
+    },
+    {
+      "source": "city",
+      "target": "local",
+      "weight": 0.561
+    },
+    {
+      "source": "community",
+      "target": "community",
+      "weight": 1.0
+    },
+    {
+      "source": "community",
+      "target": "collective",
+      "weight": 0.596
+    },
+    {
+      "source": "community",
+      "target": "team",
+      "weight": 0.586
+    },
+    {
+      "source": "name",
+      "target": "person",
+      "weight": 0.514
+    },
+    {
+      "source": "president",
+      "target": "government",
+      "weight": 0.593
+    },
+    {
+      "source": "president",
+      "target": "politics",
+      "weight": 0.534
+    },
+    {
+      "source": "president",
+      "target": "leadership",
+      "weight": 0.528
+    },
+    {
+      "source": "team",
+      "target": "teamwork",
+      "weight": 0.686
+    },
+    {
+      "source": "team",
+      "target": "community",
+      "weight": 0.586
+    },
+    {
+      "source": "idea",
+      "target": "project",
+      "weight": 0.564
+    },
+    {
+      "source": "kid",
+      "target": "parent",
+      "weight": 0.536
+    },
+    {
+      "source": "body",
+      "target": "face",
+      "weight": 0.592
+    },
+    {
+      "source": "body",
+      "target": "health",
+      "weight": 0.546
+    },
+    {
+      "source": "body",
+      "target": "health",
+      "weight": 0.546
+    },
+    {
+      "source": "body",
+      "target": "asset",
+      "weight": 0.519
+    },
+    {
+      "source": "information",
+      "target": "knowledge",
+      "weight": 0.595
+    },
+    {
+      "source": "information",
+      "target": "history",
+      "weight": 0.517
+    },
+    {
+      "source": "information",
+      "target": "history",
+      "weight": 0.517
+    },
+    {
+      "source": "information",
+      "target": "research",
+      "weight": 0.503
+    },
+    {
+      "source": "back",
+      "target": "past",
+      "weight": 0.522
+    },
+    {
+      "source": "back",
+      "target": "backlog",
+      "weight": 0.518
+    },
+    {
+      "source": "face",
+      "target": "beauty",
+      "weight": 0.515
+    },
+    {
+      "source": "others",
+      "target": "certain",
+      "weight": 0.529
+    },
+    {
+      "source": "level",
+      "target": "reputation",
+      "weight": 0.503
+    },
+    {
+      "source": "level",
+      "target": "skill",
+      "weight": 0.501
+    },
+    {
+      "source": "office",
+      "target": "productivity",
+      "weight": 0.522
+    },
+    {
+      "source": "health",
+      "target": "health",
+      "weight": 1.0
+    },
+    {
+      "source": "health",
+      "target": "healthy",
+      "weight": 0.811
+    },
+    {
+      "source": "person",
+      "target": "individual",
+      "weight": 0.729
+    },
+    {
+      "source": "person",
+      "target": "customer",
+      "weight": 0.535
+    },
+    {
+      "source": "art",
+      "target": "beauty",
+      "weight": 0.589
+    },
+    {
+      "source": "art",
+      "target": "literature",
+      "weight": 0.526
+    },
+    {
+      "source": "art",
+      "target": "style",
+      "weight": 0.509
+    },
+    {
+      "source": "war",
+      "target": "conflict",
+      "weight": 0.618
+    },
+    {
+      "source": "war",
+      "target": "peace",
+      "weight": 0.613
+    },
+    {
+      "source": "war",
+      "target": "politics",
+      "weight": 0.572
+    },
+    {
+      "source": "war",
+      "target": "duty",
+      "weight": 0.553
+    },
+    {
+      "source": "history",
+      "target": "history",
+      "weight": 1.0
+    },
+    {
+      "source": "history",
+      "target": "past",
+      "weight": 0.622
+    },
+    {
+      "source": "history",
+      "target": "politics",
+      "weight": 0.543
+    },
+    {
+      "source": "history",
+      "target": "ancient",
+      "weight": 0.535
+    },
+    {
+      "source": "party",
+      "target": "celebrate",
+      "weight": 0.557
+    },
+    {
+      "source": "party",
+      "target": "politics",
+      "weight": 0.503
+    },
+    {
+      "source": "result",
+      "target": "success",
+      "weight": 0.565
+    },
+    {
+      "source": "result",
+      "target": "success",
+      "weight": 0.565
+    },
+    {
+      "source": "result",
+      "target": "product",
+      "weight": 0.531
+    },
+    {
+      "source": "result",
+      "target": "solution",
+      "weight": 0.528
+    },
+    {
+      "source": "change",
+      "target": "change",
+      "weight": 1.0
+    },
+    {
+      "source": "change",
+      "target": "improve",
+      "weight": 0.515
+    },
+    {
+      "source": "change",
+      "target": "decrease",
+      "weight": 0.51
+    },
+    {
+      "source": "change",
+      "target": "improvement",
+      "weight": 0.51
+    },
+    {
+      "source": "ability",
+      "target": "skill",
+      "weight": 0.702
+    },
+    {
+      "source": "ability",
+      "target": "intelligence",
+      "weight": 0.58
+    },
+    {
+      "source": "reason",
+      "target": "purpose",
+      "weight": 0.601
+    },
+    {
+      "source": "reason",
+      "target": "explain",
+      "weight": 0.544
+    },
+    {
+      "source": "research",
+      "target": "technology",
+      "weight": 0.582
+    },
+    {
+      "source": "research",
+      "target": "science",
+      "weight": 0.581
+    },
+    {
+      "source": "research",
+      "target": "analysis",
+      "weight": 0.554
+    },
+    {
+      "source": "force",
+      "target": "physics",
+      "weight": 0.582
+    },
+    {
+      "source": "education",
+      "target": "education",
+      "weight": 1.0
+    },
+    {
+      "source": "education",
+      "target": "career",
+      "weight": 0.602
+    },
+    {
+      "source": "knowledge",
+      "target": "education",
+      "weight": 0.59
+    },
+    {
+      "source": "knowledge",
+      "target": "expert",
+      "weight": 0.573
+    },
+    {
+      "source": "experience",
+      "target": "experience",
+      "weight": 1.0
+    },
+    {
+      "source": "goal",
+      "target": "ambition",
+      "weight": 0.563
+    },
+    {
+      "source": "goal",
+      "target": "achieve",
+      "weight": 0.534
+    },
+    {
+      "source": "goal",
+      "target": "purpose",
+      "weight": 0.531
+    },
+    {
+      "source": "database",
+      "target": "dataset",
+      "weight": 0.541
+    },
+    {
+      "source": "dataset",
+      "target": "classification",
+      "weight": 0.529
+    },
+    {
+      "source": "visualization",
+      "target": "interactive",
+      "weight": 0.515
+    },
+    {
+      "source": "server",
+      "target": "client",
+      "weight": 0.551
+    },
+    {
+      "source": "server",
+      "target": "service",
+      "weight": 0.522
+    },
+    {
+      "source": "server",
+      "target": "connection",
+      "weight": 0.509
+    },
+    {
+      "source": "library",
+      "target": "resource",
+      "weight": 0.524
+    },
+    {
+      "source": "latency",
+      "target": "throughput",
+      "weight": 0.524
+    },
+    {
+      "source": "throughput",
+      "target": "performance",
+      "weight": 0.606
+    },
+    {
+      "source": "reliability",
+      "target": "reliable",
+      "weight": 0.743
+    },
+    {
+      "source": "reliability",
+      "target": "reliable",
+      "weight": 0.743
+    },
+    {
+      "source": "reliability",
+      "target": "failure",
+      "weight": 0.602
+    },
+    {
+      "source": "reliability",
+      "target": "quality",
+      "weight": 0.564
+    },
+    {
+      "source": "security",
+      "target": "security",
+      "weight": 1.0
+    },
+    {
+      "source": "security",
+      "target": "secure",
+      "weight": 0.849
+    },
+    {
+      "source": "security",
+      "target": "privacy",
+      "weight": 0.634
+    },
+    {
+      "source": "security",
+      "target": "privacy",
+      "weight": 0.634
+    },
+    {
+      "source": "privacy",
+      "target": "privacy",
+      "weight": 1.0
+    },
+    {
+      "source": "privacy",
+      "target": "privacy",
+      "weight": 1.0
+    },
+    {
+      "source": "privacy",
+      "target": "private",
+      "weight": 0.676
+    },
+    {
+      "source": "privacy",
+      "target": "security",
+      "weight": 0.634
+    },
+    {
+      "source": "ethics",
+      "target": "ethical",
+      "weight": 0.928
+    },
+    {
+      "source": "ethics",
+      "target": "morality",
+      "weight": 0.685
+    },
+    {
+      "source": "ethics",
+      "target": "ethic",
+      "weight": 0.559
+    },
+    {
+      "source": "ethics",
+      "target": "integrity",
+      "weight": 0.533
+    },
+    {
+      "source": "strategy",
+      "target": "strategy",
+      "weight": 1.0
+    },
+    {
+      "source": "strategy",
+      "target": "competition",
+      "weight": 0.507
+    },
+    {
+      "source": "project",
+      "target": "workshop",
+      "weight": 0.534
+    },
+    {
+      "source": "project",
+      "target": "requirement",
+      "weight": 0.533
+    },
+    {
+      "source": "manager",
+      "target": "manage",
+      "weight": 0.736
+    },
+    {
+      "source": "manager",
+      "target": "leadership",
+      "weight": 0.599
+    },
+    {
+      "source": "manager",
+      "target": "leadership",
+      "weight": 0.599
+    },
+    {
+      "source": "client",
+      "target": "customer",
+      "weight": 0.607
+    },
+    {
+      "source": "meeting",
+      "target": "discuss",
+      "weight": 0.564
+    },
+    {
+      "source": "meeting",
+      "target": "organize",
+      "weight": 0.543
+    },
+    {
+      "source": "meeting",
+      "target": "collaboration",
+      "weight": 0.532
+    },
+    {
+      "source": "deadline",
+      "target": "schedule",
+      "weight": 0.557
+    },
+    {
+      "source": "portfolio",
+      "target": "asset",
+      "weight": 0.618
+    },
+    {
+      "source": "portfolio",
+      "target": "investment",
+      "weight": 0.566
+    },
+    {
+      "source": "portfolio",
+      "target": "finance",
+      "weight": 0.527
+    },
+    {
+      "source": "career",
+      "target": "education",
+      "weight": 0.602
+    },
+    {
+      "source": "professional",
+      "target": "expert",
+      "weight": 0.597
+    },
+    {
+      "source": "expert",
+      "target": "skill",
+      "weight": 0.532
+    },
+    {
+      "source": "skill",
+      "target": "talented",
+      "weight": 0.617
+    },
+    {
+      "source": "skill",
+      "target": "intelligence",
+      "weight": 0.597
+    },
+    {
+      "source": "innovation",
+      "target": "innovation",
+      "weight": 1.0
+    },
+    {
+      "source": "innovation",
+      "target": "innovative",
+      "weight": 0.826
+    },
+    {
+      "source": "innovation",
+      "target": "technology",
+      "weight": 0.621
+    },
+    {
+      "source": "innovation",
+      "target": "development",
+      "weight": 0.559
+    },
+    {
+      "source": "solution",
+      "target": "solution",
+      "weight": 1.0
+    },
+    {
+      "source": "solution",
+      "target": "solution",
+      "weight": 1.0
+    },
+    {
+      "source": "solution",
+      "target": "solution",
+      "weight": 1.0
+    },
+    {
+      "source": "solution",
+      "target": "problem",
+      "weight": 0.682
+    },
+    {
+      "source": "challenge",
+      "target": "challenge",
+      "weight": 1.0
+    },
+    {
+      "source": "challenge",
+      "target": "challenge",
+      "weight": 1.0
+    },
+    {
+      "source": "challenge",
+      "target": "competition",
+      "weight": 0.613
+    },
+    {
+      "source": "impact",
+      "target": "impact",
+      "weight": 1.0
+    },
+    {
+      "source": "impact",
+      "target": "effect",
+      "weight": 0.67
+    },
+    {
+      "source": "impact",
+      "target": "affect",
+      "weight": 0.592
+    },
+    {
+      "source": "impact",
+      "target": "influence",
+      "weight": 0.562
+    },
+    {
+      "source": "opinion",
+      "target": "subjective",
+      "weight": 0.589
+    },
+    {
+      "source": "opinion",
+      "target": "truth",
+      "weight": 0.572
+    },
+    {
+      "source": "opinion",
+      "target": "explain",
+      "weight": 0.516
+    },
+    {
+      "source": "decision",
+      "target": "uncertain",
+      "weight": 0.502
+    },
+    {
+      "source": "opportunity",
+      "target": "opportunity",
+      "weight": 1.0
+    },
+    {
+      "source": "opportunity",
+      "target": "competition",
+      "weight": 0.523
+    },
+    {
+      "source": "resource",
+      "target": "asset",
+      "weight": 0.531
+    },
+    {
+      "source": "efficiency",
+      "target": "efficiency",
+      "weight": 1.0
+    },
+    {
+      "source": "efficiency",
+      "target": "efficient",
+      "weight": 0.873
+    },
+    {
+      "source": "efficiency",
+      "target": "performance",
+      "weight": 0.678
+    },
+    {
+      "source": "efficiency",
+      "target": "productivity",
+      "weight": 0.637
+    },
+    {
+      "source": "quality",
+      "target": "quality",
+      "weight": 1.0
+    },
+    {
+      "source": "quality",
+      "target": "reliable",
+      "weight": 0.611
+    },
+    {
+      "source": "quality",
+      "target": "reliable",
+      "weight": 0.611
+    },
+    {
+      "source": "standard",
+      "target": "standard",
+      "weight": 1.0
+    },
+    {
+      "source": "standard",
+      "target": "standard",
+      "weight": 1.0
+    },
+    {
+      "source": "standard",
+      "target": "common",
+      "weight": 0.565
+    },
+    {
+      "source": "requirement",
+      "target": "necessary",
+      "weight": 0.652
+    },
+    {
+      "source": "requirement",
+      "target": "mandatory",
+      "weight": 0.633
+    },
+    {
+      "source": "requirement",
+      "target": "optional",
+      "weight": 0.51
+    },
+    {
+      "source": "process",
+      "target": "procedure",
+      "weight": 0.579
+    },
+    {
+      "source": "benefit",
+      "target": "benefit",
+      "weight": 1.0
+    },
+    {
+      "source": "benefit",
+      "target": "advantage",
+      "weight": 0.741
+    },
+    {
+      "source": "benefit",
+      "target": "advantage",
+      "weight": 0.741
+    },
+    {
+      "source": "benefit",
+      "target": "purpose",
+      "weight": 0.633
+    },
+    {
+      "source": "feedback",
+      "target": "improve",
+      "weight": 0.522
+    },
+    {
+      "source": "feedback",
+      "target": "performance",
+      "weight": 0.505
+    },
+    {
+      "source": "environment",
+      "target": "environment",
+      "weight": 1.0
+    },
+    {
+      "source": "environment",
+      "target": "nature",
+      "weight": 0.63
+    },
+    {
+      "source": "environment",
+      "target": "sustainability",
+      "weight": 0.595
+    },
+    {
+      "source": "environment",
+      "target": "climate",
+      "weight": 0.557
+    },
+    {
+      "source": "success",
+      "target": "success",
+      "weight": 1.0
+    },
+    {
+      "source": "success",
+      "target": "failure",
+      "weight": 0.673
+    },
+    {
+      "source": "success",
+      "target": "achieve",
+      "weight": 0.601
+    },
+    {
+      "source": "success",
+      "target": "progress",
+      "weight": 0.595
+    },
+    {
+      "source": "failure",
+      "target": "success",
+      "weight": 0.673
+    },
+    {
+      "source": "failure",
+      "target": "reliable",
+      "weight": 0.614
+    },
+    {
+      "source": "failure",
+      "target": "reliable",
+      "weight": 0.614
+    },
+    {
+      "source": "effort",
+      "target": "teamwork",
+      "weight": 0.528
+    },
+    {
+      "source": "progress",
+      "target": "success",
+      "weight": 0.595
+    },
+    {
+      "source": "progress",
+      "target": "achieve",
+      "weight": 0.578
+    },
+    {
+      "source": "progress",
+      "target": "support",
+      "weight": 0.566
+    },
+    {
+      "source": "method",
+      "target": "procedure",
+      "weight": 0.503
+    },
+    {
+      "source": "compliance",
+      "target": "regulation",
+      "weight": 0.582
+    },
+    {
+      "source": "compliance",
+      "target": "integrity",
+      "weight": 0.558
+    },
+    {
+      "source": "compliance",
+      "target": "policy",
+      "weight": 0.519
+    },
+    {
+      "source": "risk",
+      "target": "safety",
+      "weight": 0.617
+    },
+    {
+      "source": "risk",
+      "target": "secure",
+      "weight": 0.547
+    },
+    {
+      "source": "risk",
+      "target": "security",
+      "weight": 0.524
+    },
+    {
+      "source": "assessment",
+      "target": "certification",
+      "weight": 0.502
+    },
+    {
+      "source": "development",
+      "target": "innovation",
+      "weight": 0.559
+    },
+    {
+      "source": "development",
+      "target": "technology",
+      "weight": 0.534
+    },
+    {
+      "source": "maintenance",
+      "target": "service",
+      "weight": 0.516
+    },
+    {
+      "source": "support",
+      "target": "support",
+      "weight": 1.0
+    },
+    {
+      "source": "customer",
+      "target": "consumer",
+      "weight": 0.667
+    },
+    {
+      "source": "customer",
+      "target": "service",
+      "weight": 0.605
+    },
+    {
+      "source": "revenue",
+      "target": "profit",
+      "weight": 0.733
+    },
+    {
+      "source": "revenue",
+      "target": "economy",
+      "weight": 0.566
+    },
+    {
+      "source": "budget",
+      "target": "economy",
+      "weight": 0.545
+    },
+    {
+      "source": "budget",
+      "target": "finance",
+      "weight": 0.519
+    },
+    {
+      "source": "profit",
+      "target": "investment",
+      "weight": 0.553
+    },
+    {
+      "source": "profit",
+      "target": "economics",
+      "weight": 0.546
+    },
+    {
+      "source": "collaboration",
+      "target": "cooperation",
+      "weight": 0.705
+    },
+    {
+      "source": "collaboration",
+      "target": "partnership",
+      "weight": 0.659
+    },
+    {
+      "source": "collaboration",
+      "target": "teamwork",
+      "weight": 0.636
+    },
+    {
+      "source": "collaboration",
+      "target": "collective",
+      "weight": 0.573
+    },
+    {
+      "source": "leadership",
+      "target": "leadership",
+      "weight": 1.0
+    },
+    {
+      "source": "leadership",
+      "target": "authority",
+      "weight": 0.601
+    },
+    {
+      "source": "leadership",
+      "target": "authority",
+      "weight": 0.601
+    },
+    {
+      "source": "productivity",
+      "target": "productive",
+      "weight": 0.748
+    },
+    {
+      "source": "productivity",
+      "target": "efficiency",
+      "weight": 0.637
+    },
+    {
+      "source": "productivity",
+      "target": "economy",
+      "weight": 0.553
+    },
+    {
+      "source": "flexibility",
+      "target": "flexible",
+      "weight": 0.851
+    },
+    {
+      "source": "flexibility",
+      "target": "flexible",
+      "weight": 0.851
+    },
+    {
+      "source": "communication",
+      "target": "communication",
+      "weight": 1.0
+    },
+    {
+      "source": "communication",
+      "target": "cooperation",
+      "weight": 0.574
+    },
+    {
+      "source": "communication",
+      "target": "discuss",
+      "weight": 0.557
+    },
+    {
+      "source": "communication",
+      "target": "networking",
+      "weight": 0.543
+    },
+    {
+      "source": "negotiation",
+      "target": "cooperation",
+      "weight": 0.532
+    },
+    {
+      "source": "negotiation",
+      "target": "partnership",
+      "weight": 0.513
+    },
+    {
+      "source": "negotiation",
+      "target": "conflict",
+      "weight": 0.509
+    },
+    {
+      "source": "presentation",
+      "target": "workshop",
+      "weight": 0.526
+    },
+    {
+      "source": "variable",
+      "target": "value",
+      "weight": 0.539
+    },
+    {
+      "source": "logic",
+      "target": "logical",
+      "weight": 0.822
+    },
+    {
+      "source": "logic",
+      "target": "logical",
+      "weight": 0.822
+    },
+    {
+      "source": "logic",
+      "target": "inference",
+      "weight": 0.61
+    },
+    {
+      "source": "logic",
+      "target": "truth",
+      "weight": 0.571
+    },
+    {
+      "source": "feature",
+      "target": "supervised",
+      "weight": 0.508
+    },
+    {
+      "source": "advantage",
+      "target": "advantage",
+      "weight": 1.0
+    },
+    {
+      "source": "advantage",
+      "target": "benefit",
+      "weight": 0.741
+    },
+    {
+      "source": "advantage",
+      "target": "disadvantage",
+      "weight": 0.702
+    },
+    {
+      "source": "disadvantage",
+      "target": "advantage",
+      "weight": 0.702
+    },
+    {
+      "source": "disadvantage",
+      "target": "benefit",
+      "weight": 0.56
+    },
+    {
+      "source": "challenge",
+      "target": "challenge",
+      "weight": 1.0
+    },
+    {
+      "source": "challenge",
+      "target": "competition",
+      "weight": 0.613
+    },
+    {
+      "source": "solution",
+      "target": "solution",
+      "weight": 1.0
+    },
+    {
+      "source": "solution",
+      "target": "solution",
+      "weight": 1.0
+    },
+    {
+      "source": "solution",
+      "target": "problem",
+      "weight": 0.682
+    },
+    {
+      "source": "effect",
+      "target": "affect",
+      "weight": 0.782
+    },
+    {
+      "source": "effect",
+      "target": "impact",
+      "weight": 0.67
+    },
+    {
+      "source": "effect",
+      "target": "influence",
+      "weight": 0.655
+    },
+    {
+      "source": "affect",
+      "target": "impact",
+      "weight": 0.592
+    },
+    {
+      "source": "affect",
+      "target": "influence",
+      "weight": 0.575
+    },
+    {
+      "source": "improvement",
+      "target": "improve",
+      "weight": 0.843
+    },
+    {
+      "source": "improvement",
+      "target": "performance",
+      "weight": 0.591
+    },
+    {
+      "source": "improvement",
+      "target": "effective",
+      "weight": 0.55
+    },
+    {
+      "source": "increase",
+      "target": "decrease",
+      "weight": 0.608
+    },
+    {
+      "source": "increase",
+      "target": "improve",
+      "weight": 0.579
+    },
+    {
+      "source": "increase",
+      "target": "growth",
+      "weight": 0.559
+    },
+    {
+      "source": "decrease",
+      "target": "change",
+      "weight": 0.51
+    },
+    {
+      "source": "performance",
+      "target": "efficiency",
+      "weight": 0.678
+    },
+    {
+      "source": "performance",
+      "target": "efficient",
+      "weight": 0.642
+    },
+    {
+      "source": "stable",
+      "target": "stable",
+      "weight": 1.0
+    },
+    {
+      "source": "stable",
+      "target": "reliable",
+      "weight": 0.589
+    },
+    {
+      "source": "stable",
+      "target": "reliable",
+      "weight": 0.589
+    },
+    {
+      "source": "stable",
+      "target": "consistent",
+      "weight": 0.543
+    },
+    {
+      "source": "bias",
+      "target": "biased",
+      "weight": 0.852
+    },
+    {
+      "source": "overfitting",
+      "target": "underfitting",
+      "weight": 0.886
+    },
+    {
+      "source": "prediction",
+      "target": "regression",
+      "weight": 0.574
+    },
+    {
+      "source": "prediction",
+      "target": "classification",
+      "weight": 0.505
+    },
+    {
+      "source": "accuracy",
+      "target": "precision",
+      "weight": 0.779
+    },
+    {
+      "source": "accuracy",
+      "target": "accurate",
+      "weight": 0.614
+    },
+    {
+      "source": "accuracy",
+      "target": "reliable",
+      "weight": 0.58
+    },
+    {
+      "source": "accuracy",
+      "target": "reliable",
+      "weight": 0.58
+    },
+    {
+      "source": "precision",
+      "target": "significant",
+      "weight": 0.52
+    },
+    {
+      "source": "recall",
+      "target": "memory",
+      "weight": 0.603
+    },
+    {
+      "source": "clustering",
+      "target": "classification",
+      "weight": 0.564
+    },
+    {
+      "source": "clustering",
+      "target": "supervised",
+      "weight": 0.554
+    },
+    {
+      "source": "classification",
+      "target": "supervised",
+      "weight": 0.709
+    },
+    {
+      "source": "reinforcement",
+      "target": "discipline",
+      "weight": 0.529
+    },
+    {
+      "source": "reinforcement",
+      "target": "motivate",
+      "weight": 0.516
+    },
+    {
+      "source": "warehouse",
+      "target": "logistics",
+      "weight": 0.605
+    },
+    {
+      "source": "asynchronous",
+      "target": "synchronous",
+      "weight": 0.673
+    },
+    {
+      "source": "vector",
+      "target": "matrix",
+      "weight": 0.527
+    },
+    {
+      "source": "asset",
+      "target": "wealth",
+      "weight": 0.641
+    },
+    {
+      "source": "asset",
+      "target": "finance",
+      "weight": 0.545
+    },
+    {
+      "source": "asset",
+      "target": "investment",
+      "weight": 0.541
+    },
+    {
+      "source": "physics",
+      "target": "science",
+      "weight": 0.658
+    },
+    {
+      "source": "physics",
+      "target": "collision",
+      "weight": 0.546
+    },
+    {
+      "source": "physics",
+      "target": "particle",
+      "weight": 0.519
+    },
+    {
+      "source": "collision",
+      "target": "impact",
+      "weight": 0.544
+    },
+    {
+      "source": "collision",
+      "target": "conflict",
+      "weight": 0.511
+    },
+    {
+      "source": "frame",
+      "target": "animation",
+      "weight": 0.516
+    },
+    {
+      "source": "shader",
+      "target": "texture",
+      "weight": 0.52
+    },
+    {
+      "source": "animation",
+      "target": "interactive",
+      "weight": 0.537
+    },
+    {
+      "source": "texture",
+      "target": "material",
+      "weight": 0.599
+    },
+    {
+      "source": "mentorship",
+      "target": "leadership",
+      "weight": 0.515
+    },
+    {
+      "source": "sprint",
+      "target": "scrum",
+      "weight": 0.6
+    },
+    {
+      "source": "sprint",
+      "target": "mobile",
+      "weight": 0.505
+    },
+    {
+      "source": "scrum",
+      "target": "teamwork",
+      "weight": 0.531
+    },
+    {
+      "source": "networking",
+      "target": "connection",
+      "weight": 0.568
+    },
+    {
+      "source": "networking",
+      "target": "wireless",
+      "weight": 0.548
+    },
+    {
+      "source": "networking",
+      "target": "communication",
+      "weight": 0.543
+    },
+    {
+      "source": "credential",
+      "target": "certification",
+      "weight": 0.503
+    },
+    {
+      "source": "degree",
+      "target": "education",
+      "weight": 0.539
+    },
+    {
+      "source": "ownership",
+      "target": "corporation",
+      "weight": 0.596
+    },
+    {
+      "source": "ownership",
+      "target": "manufacture",
+      "weight": 0.533
+    },
+    {
+      "source": "ownership",
+      "target": "partnership",
+      "weight": 0.532
+    },
+    {
+      "source": "accountability",
+      "target": "responsible",
+      "weight": 0.681
+    },
+    {
+      "source": "accountability",
+      "target": "integrity",
+      "weight": 0.617
+    },
+    {
+      "source": "accountability",
+      "target": "authority",
+      "weight": 0.587
+    },
+    {
+      "source": "accountability",
+      "target": "authority",
+      "weight": 0.587
+    },
+    {
+      "source": "teamwork",
+      "target": "cooperation",
+      "weight": 0.576
+    },
+    {
+      "source": "gratitude",
+      "target": "appreciation",
+      "weight": 0.788
+    },
+    {
+      "source": "gratitude",
+      "target": "kindness",
+      "weight": 0.612
+    },
+    {
+      "source": "gratitude",
+      "target": "respect",
+      "weight": 0.537
+    },
+    {
+      "source": "gratitude",
+      "target": "empathy",
+      "weight": 0.536
+    },
+    {
+      "source": "appreciation",
+      "target": "honor",
+      "weight": 0.597
+    },
+    {
+      "source": "appreciation",
+      "target": "respect",
+      "weight": 0.562
+    },
+    {
+      "source": "appreciation",
+      "target": "positive",
+      "weight": 0.542
+    },
+    {
+      "source": "empathy",
+      "target": "compassion",
+      "weight": 0.68
+    },
+    {
+      "source": "empathy",
+      "target": "kindness",
+      "weight": 0.59
+    },
+    {
+      "source": "empathy",
+      "target": "psychology",
+      "weight": 0.527
+    },
+    {
+      "source": "compassion",
+      "target": "kindness",
+      "weight": 0.612
+    },
+    {
+      "source": "compassion",
+      "target": "humility",
+      "weight": 0.534
+    },
+    {
+      "source": "compassion",
+      "target": "wisdom",
+      "weight": 0.529
+    },
+    {
+      "source": "integrity",
+      "target": "secure",
+      "weight": 0.513
+    },
+    {
+      "source": "authority",
+      "target": "authority",
+      "weight": 1.0
+    },
+    {
+      "source": "authority",
+      "target": "government",
+      "weight": 0.613
+    },
+    {
+      "source": "authority",
+      "target": "leadership",
+      "weight": 0.601
+    },
+    {
+      "source": "diversity",
+      "target": "diverse",
+      "weight": 0.883
+    },
+    {
+      "source": "resilience",
+      "target": "disaster",
+      "weight": 0.559
+    },
+    {
+      "source": "resilience",
+      "target": "bravery",
+      "weight": 0.514
+    },
+    {
+      "source": "persistence",
+      "target": "consistent",
+      "weight": 0.517
+    },
+    {
+      "source": "persistence",
+      "target": "permanent",
+      "weight": 0.516
+    },
+    {
+      "source": "persistence",
+      "target": "commitment",
+      "weight": 0.51
+    },
+    {
+      "source": "persistence",
+      "target": "reliable",
+      "weight": 0.509
+    },
+    {
+      "source": "humility",
+      "target": "humble",
+      "weight": 0.699
+    },
+    {
+      "source": "humility",
+      "target": "peace",
+      "weight": 0.503
+    },
+    {
+      "source": "wisdom",
+      "target": "intelligence",
+      "weight": 0.583
+    },
+    {
+      "source": "intelligence",
+      "target": "smart",
+      "weight": 0.669
+    },
+    {
+      "source": "confidence",
+      "target": "confident",
+      "weight": 0.794
+    },
+    {
+      "source": "confidence",
+      "target": "uncertain",
+      "weight": 0.528
+    },
+    {
+      "source": "anxiety",
+      "target": "anxious",
+      "weight": 0.855
+    },
+    {
+      "source": "anxiety",
+      "target": "stress",
+      "weight": 0.586
+    },
+    {
+      "source": "stress",
+      "target": "anxious",
+      "weight": 0.585
+    },
+    {
+      "source": "stress",
+      "target": "comfort",
+      "weight": 0.509
+    },
+    {
+      "source": "stress",
+      "target": "relaxed",
+      "weight": 0.503
+    },
+    {
+      "source": "success",
+      "target": "achieve",
+      "weight": 0.601
+    },
+    {
+      "source": "ambition",
+      "target": "achieve",
+      "weight": 0.612
+    },
+    {
+      "source": "ambition",
+      "target": "motivate",
+      "weight": 0.568
+    },
+    {
+      "source": "comfort",
+      "target": "relaxed",
+      "weight": 0.563
+    },
+    {
+      "source": "comfort",
+      "target": "anxious",
+      "weight": 0.52
+    },
+    {
+      "source": "improve",
+      "target": "effective",
+      "weight": 0.546
+    },
+    {
+      "source": "improve",
+      "target": "achieve",
+      "weight": 0.542
+    },
+    {
+      "source": "inspire",
+      "target": "motivate",
+      "weight": 0.572
+    },
+    {
+      "source": "inspire",
+      "target": "influence",
+      "weight": 0.571
+    },
+    {
+      "source": "inspire",
+      "target": "achieve",
+      "weight": 0.553
+    },
+    {
+      "source": "inspire",
+      "target": "bravery",
+      "weight": 0.529
+    },
+    {
+      "source": "motivate",
+      "target": "achieve",
+      "weight": 0.533
+    },
+    {
+      "source": "achieve",
+      "target": "perform",
+      "weight": 0.585
+    },
+    {
+      "source": "organize",
+      "target": "manage",
+      "weight": 0.617
+    },
+    {
+      "source": "organize",
+      "target": "collective",
+      "weight": 0.575
+    },
+    {
+      "source": "manage",
+      "target": "leadership",
+      "weight": 0.589
+    },
+    {
+      "source": "explain",
+      "target": "simple",
+      "weight": 0.615
+    },
+    {
+      "source": "explain",
+      "target": "discuss",
+      "weight": 0.544
+    },
+    {
+      "source": "explain",
+      "target": "obvious",
+      "weight": 0.537
+    },
+    {
+      "source": "discuss",
+      "target": "communication",
+      "weight": 0.557
+    },
+    {
+      "source": "imagine",
+      "target": "dream",
+      "weight": 0.518
+    },
+    {
+      "source": "creative",
+      "target": "creative",
+      "weight": 1.0
+    },
+    {
+      "source": "creative",
+      "target": "innovative",
+      "weight": 0.554
+    },
+    {
+      "source": "logical",
+      "target": "logical",
+      "weight": 1.0
+    },
+    {
+      "source": "logical",
+      "target": "truth",
+      "weight": 0.538
+    },
+    {
+      "source": "reliable",
+      "target": "reliable",
+      "weight": 1.0
+    },
+    {
+      "source": "reliable",
+      "target": "consistent",
+      "weight": 0.666
+    },
+    {
+      "source": "generous",
+      "target": "donation",
+      "weight": 0.565
+    },
+    {
+      "source": "brave",
+      "target": "bravery",
+      "weight": 0.768
+    },
+    {
+      "source": "sincere",
+      "target": "polite",
+      "weight": 0.534
+    },
+    {
+      "source": "polite",
+      "target": "formal",
+      "weight": 0.562
+    },
+    {
+      "source": "polite",
+      "target": "respect",
+      "weight": 0.546
+    },
+    {
+      "source": "polite",
+      "target": "kindness",
+      "weight": 0.542
+    },
+    {
+      "source": "energetic",
+      "target": "enthusiastic",
+      "weight": 0.59
+    },
+    {
+      "source": "energetic",
+      "target": "productive",
+      "weight": 0.552
+    },
+    {
+      "source": "positive",
+      "target": "positive",
+      "weight": 1.0
+    },
+    {
+      "source": "positive",
+      "target": "negative",
+      "weight": 0.714
+    },
+    {
+      "source": "flexible",
+      "target": "flexible",
+      "weight": 1.0
+    },
+    {
+      "source": "independent",
+      "target": "freedom",
+      "weight": 0.504
+    },
+    {
+      "source": "responsible",
+      "target": "authority",
+      "weight": 0.566
+    },
+    {
+      "source": "responsible",
+      "target": "justice",
+      "weight": 0.537
+    },
+    {
+      "source": "talented",
+      "target": "beauty",
+      "weight": 0.526
+    },
+    {
+      "source": "enthusiastic",
+      "target": "intense",
+      "weight": 0.569
+    },
+    {
+      "source": "enthusiastic",
+      "target": "anxious",
+      "weight": 0.528
+    },
+    {
+      "source": "enthusiastic",
+      "target": "confident",
+      "weight": 0.527
+    },
+    {
+      "source": "focused",
+      "target": "vision",
+      "weight": 0.506
+    },
+    {
+      "source": "commitment",
+      "target": "loyalty",
+      "weight": 0.571
+    },
+    {
+      "source": "commitment",
+      "target": "relationship",
+      "weight": 0.536
+    },
+    {
+      "source": "opportunity",
+      "target": "competition",
+      "weight": 0.523
+    },
+    {
+      "source": "possibility",
+      "target": "probable",
+      "weight": 0.749
+    },
+    {
+      "source": "possibility",
+      "target": "possible",
+      "weight": 0.715
+    },
+    {
+      "source": "possibility",
+      "target": "doubtful",
+      "weight": 0.707
+    },
+    {
+      "source": "possibility",
+      "target": "impossible",
+      "weight": 0.573
+    },
+    {
+      "source": "challenge",
+      "target": "competition",
+      "weight": 0.613
+    },
+    {
+      "source": "solution",
+      "target": "solution",
+      "weight": 1.0
+    },
+    {
+      "source": "solution",
+      "target": "problem",
+      "weight": 0.682
+    },
+    {
+      "source": "impact",
+      "target": "influence",
+      "weight": 0.562
+    },
+    {
+      "source": "benefit",
+      "target": "advantage",
+      "weight": 0.741
+    },
+    {
+      "source": "benefit",
+      "target": "purpose",
+      "weight": 0.633
+    },
+    {
+      "source": "value",
+      "target": "wealth",
+      "weight": 0.503
+    },
+    {
+      "source": "purpose",
+      "target": "necessary",
+      "weight": 0.543
+    },
+    {
+      "source": "standard",
+      "target": "standard",
+      "weight": 1.0
+    },
+    {
+      "source": "standard",
+      "target": "common",
+      "weight": 0.565
+    },
+    {
+      "source": "quality",
+      "target": "reliable",
+      "weight": 0.611
+    },
+    {
+      "source": "safety",
+      "target": "security",
+      "weight": 0.618
+    },
+    {
+      "source": "safety",
+      "target": "harmful",
+      "weight": 0.6
+    },
+    {
+      "source": "privacy",
+      "target": "privacy",
+      "weight": 1.0
+    },
+    {
+      "source": "privacy",
+      "target": "private",
+      "weight": 0.676
+    },
+    {
+      "source": "privacy",
+      "target": "security",
+      "weight": 0.634
+    },
+    {
+      "source": "security",
+      "target": "secure",
+      "weight": 0.849
+    },
+    {
+      "source": "security",
+      "target": "privacy",
+      "weight": 0.634
+    },
+    {
+      "source": "control",
+      "target": "authority",
+      "weight": 0.508
+    },
+    {
+      "source": "growth",
+      "target": "innovation",
+      "weight": 0.516
+    },
+    {
+      "source": "harmony",
+      "target": "harmonious",
+      "weight": 0.754
+    },
+    {
+      "source": "harmony",
+      "target": "peace",
+      "weight": 0.546
+    },
+    {
+      "source": "peace",
+      "target": "conflict",
+      "weight": 0.538
+    },
+    {
+      "source": "peace",
+      "target": "religion",
+      "weight": 0.52
+    },
+    {
+      "source": "justice",
+      "target": "justice",
+      "weight": 1.0
+    },
+    {
+      "source": "justice",
+      "target": "law",
+      "weight": 0.536
+    },
+    {
+      "source": "truth",
+      "target": "reality",
+      "weight": 0.567
+    },
+    {
+      "source": "freedom",
+      "target": "liberty",
+      "weight": 0.66
+    },
+    {
+      "source": "freedom",
+      "target": "government",
+      "weight": 0.512
+    },
+    {
+      "source": "honor",
+      "target": "respect",
+      "weight": 0.637
+    },
+    {
+      "source": "honor",
+      "target": "duty",
+      "weight": 0.533
+    },
+    {
+      "source": "honor",
+      "target": "loyalty",
+      "weight": 0.527
+    },
+    {
+      "source": "kindness",
+      "target": "charity",
+      "weight": 0.563
+    },
+    {
+      "source": "wealth",
+      "target": "wealthy",
+      "weight": 0.849
+    },
+    {
+      "source": "wealth",
+      "target": "economy",
+      "weight": 0.639
+    },
+    {
+      "source": "health",
+      "target": "healthy",
+      "weight": 0.811
+    },
+    {
+      "source": "beauty",
+      "target": "style",
+      "weight": 0.518
+    },
+    {
+      "source": "tradition",
+      "target": "traditional",
+      "weight": 0.611
+    },
+    {
+      "source": "tradition",
+      "target": "culture",
+      "weight": 0.531
+    },
+    {
+      "source": "culture",
+      "target": "civilization",
+      "weight": 0.614
+    },
+    {
+      "source": "culture",
+      "target": "society",
+      "weight": 0.566
+    },
+    {
+      "source": "culture",
+      "target": "heritage",
+      "weight": 0.561
+    },
+    {
+      "source": "religion",
+      "target": "philosophy",
+      "weight": 0.565
+    },
+    {
+      "source": "religion",
+      "target": "morality",
+      "weight": 0.543
+    },
+    {
+      "source": "religion",
+      "target": "science",
+      "weight": 0.529
+    },
+    {
+      "source": "politics",
+      "target": "government",
+      "weight": 0.686
+    },
+    {
+      "source": "economics",
+      "target": "economy",
+      "weight": 0.807
+    },
+    {
+      "source": "economics",
+      "target": "finance",
+      "weight": 0.658
+    },
+    {
+      "source": "economics",
+      "target": "market",
+      "weight": 0.606
+    },
+    {
+      "source": "economics",
+      "target": "investment",
+      "weight": 0.591
+    },
+    {
+      "source": "technology",
+      "target": "innovation",
+      "weight": 0.621
+    },
+    {
+      "source": "technology",
+      "target": "science",
+      "weight": 0.588
+    },
+    {
+      "source": "memory",
+      "target": "crucial",
+      "weight": 0.617
+    },
+    {
+      "source": "reality",
+      "target": "theoretical",
+      "weight": 0.557
+    },
+    {
+      "source": "nature",
+      "target": "environment",
+      "weight": 0.63
+    },
+    {
+      "source": "nature",
+      "target": "natural",
+      "weight": 0.543
+    },
+    {
+      "source": "environment",
+      "target": "sustainability",
+      "weight": 0.595
+    },
+    {
+      "source": "environment",
+      "target": "climate",
+      "weight": 0.557
+    },
+    {
+      "source": "atmosphere",
+      "target": "climate",
+      "weight": 0.505
+    },
+    {
+      "source": "temperature",
+      "target": "weather",
+      "weight": 0.59
+    },
+    {
+      "source": "temperature",
+      "target": "climate",
+      "weight": 0.535
+    },
+    {
+      "source": "climate",
+      "target": "weather",
+      "weight": 0.653
+    },
+    {
+      "source": "solution",
+      "target": "problem",
+      "weight": 0.682
+    },
+    {
+      "source": "conflict",
+      "target": "conflicting",
+      "weight": 0.586
+    },
+    {
+      "source": "conflict",
+      "target": "cooperation",
+      "weight": 0.539
+    },
+    {
+      "source": "communication",
+      "target": "cooperation",
+      "weight": 0.574
+    },
+    {
+      "source": "interaction",
+      "target": "interactive",
+      "weight": 0.63
+    },
+    {
+      "source": "interaction",
+      "target": "cooperation",
+      "weight": 0.549
+    },
+    {
+      "source": "relationship",
+      "target": "partnership",
+      "weight": 0.528
+    },
+    {
+      "source": "partnership",
+      "target": "cooperation",
+      "weight": 0.572
+    },
+    {
+      "source": "partnership",
+      "target": "corporation",
+      "weight": 0.568
+    },
+    {
+      "source": "community",
+      "target": "collective",
+      "weight": 0.596
+    },
+    {
+      "source": "society",
+      "target": "sociology",
+      "weight": 0.625
+    },
+    {
+      "source": "society",
+      "target": "civilization",
+      "weight": 0.55
+    },
+    {
+      "source": "nationality",
+      "target": "heritage",
+      "weight": 0.515
+    },
+    {
+      "source": "civilization",
+      "target": "ancient",
+      "weight": 0.588
+    },
+    {
+      "source": "civilization",
+      "target": "ancient",
+      "weight": 0.588
+    },
+    {
+      "source": "heritage",
+      "target": "history",
+      "weight": 0.524
+    },
+    {
+      "source": "justice",
+      "target": "law",
+      "weight": 0.536
+    },
+    {
+      "source": "charity",
+      "target": "donation",
+      "weight": 0.703
+    },
+    {
+      "source": "charity",
+      "target": "volunteer",
+      "weight": 0.612
+    },
+    {
+      "source": "donation",
+      "target": "volunteer",
+      "weight": 0.51
+    },
+    {
+      "source": "authority",
+      "target": "government",
+      "weight": 0.613
+    },
+    {
+      "source": "authority",
+      "target": "leadership",
+      "weight": 0.601
+    },
+    {
+      "source": "policy",
+      "target": "regulation",
+      "weight": 0.608
+    },
+    {
+      "source": "law",
+      "target": "legal",
+      "weight": 0.676
+    },
+    {
+      "source": "right",
+      "target": "accurate",
+      "weight": 0.503
+    },
+    {
+      "source": "duty",
+      "target": "service",
+      "weight": 0.524
+    },
+    {
+      "source": "privacy",
+      "target": "private",
+      "weight": 0.676
+    },
+    {
+      "source": "morality",
+      "target": "ethical",
+      "weight": 0.661
+    },
+    {
+      "source": "psychology",
+      "target": "sociology",
+      "weight": 0.511
+    },
+    {
+      "source": "sociology",
+      "target": "collective",
+      "weight": 0.511
+    },
+    {
+      "source": "history",
+      "target": "past",
+      "weight": 0.622
+    },
+    {
+      "source": "history",
+      "target": "ancient",
+      "weight": 0.535
+    },
+    {
+      "source": "economy",
+      "target": "finance",
+      "weight": 0.625
+    },
+    {
+      "source": "finance",
+      "target": "investment",
+      "weight": 0.645
+    },
+    {
+      "source": "investment",
+      "target": "market",
+      "weight": 0.58
+    },
+    {
+      "source": "entrepreneur",
+      "target": "innovation",
+      "weight": 0.54
+    },
+    {
+      "source": "corporation",
+      "target": "manufacture",
+      "weight": 0.583
+    },
+    {
+      "source": "consumer",
+      "target": "product",
+      "weight": 0.522
+    },
+    {
+      "source": "product",
+      "target": "manufacture",
+      "weight": 0.632
+    },
+    {
+      "source": "export",
+      "target": "import",
+      "weight": 0.585
+    },
+    {
+      "source": "innovation",
+      "target": "innovative",
+      "weight": 0.826
+    },
+    {
+      "source": "efficiency",
+      "target": "efficient",
+      "weight": 0.873
+    },
+    {
+      "source": "global",
+      "target": "universal",
+      "weight": 0.518
+    },
+    {
+      "source": "universal",
+      "target": "unique",
+      "weight": 0.511
+    },
+    {
+      "source": "virtual",
+      "target": "virtual",
+      "weight": 1.0
+    },
+    {
+      "source": "mobile",
+      "target": "wireless",
+      "weight": 0.513
+    },
+    {
+      "source": "interactive",
+      "target": "advanced",
+      "weight": 0.53
+    },
+    {
+      "source": "advanced",
+      "target": "modern",
+      "weight": 0.553
+    },
+    {
+      "source": "advanced",
+      "target": "modern",
+      "weight": 0.553
+    },
+    {
+      "source": "basic",
+      "target": "simple",
+      "weight": 0.561
+    },
+    {
+      "source": "fixed",
+      "target": "conflicting",
+      "weight": 0.508
+    },
+    {
+      "source": "stable",
+      "target": "reliable",
+      "weight": 0.589
+    },
+    {
+      "source": "stable",
+      "target": "consistent",
+      "weight": 0.543
+    },
+    {
+      "source": "efficient",
+      "target": "productive",
+      "weight": 0.619
+    },
+    {
+      "source": "reliable",
+      "target": "consistent",
+      "weight": 0.666
+    },
+    {
+      "source": "private",
+      "target": "public",
+      "weight": 0.669
+    },
+    {
+      "source": "specific",
+      "target": "certain",
+      "weight": 0.626
+    },
+    {
+      "source": "specific",
+      "target": "vague",
+      "weight": 0.508
+    },
+    {
+      "source": "essential",
+      "target": "necessary",
+      "weight": 0.626
+    },
+    {
+      "source": "essential",
+      "target": "crucial",
+      "weight": 0.531
+    },
+    {
+      "source": "essential",
+      "target": "optional",
+      "weight": 0.513
+    },
+    {
+      "source": "poor",
+      "target": "wealthy",
+      "weight": 0.558
+    },
+    {
+      "source": "ancient",
+      "target": "ancient",
+      "weight": 1.0
+    },
+    {
+      "source": "modern",
+      "target": "modern",
+      "weight": 1.0
+    },
+    {
+      "source": "modern",
+      "target": "traditional",
+      "weight": 0.578
+    },
+    {
+      "source": "temporary",
+      "target": "permanent",
+      "weight": 0.637
+    },
+    {
+      "source": "formal",
+      "target": "informal",
+      "weight": 0.622
+    },
+    {
+      "source": "contradictory",
+      "target": "conflicting",
+      "weight": 0.552
+    },
+    {
+      "source": "accurate",
+      "target": "uncertain",
+      "weight": 0.536
+    },
+    {
+      "source": "vague",
+      "target": "uncertain",
+      "weight": 0.552
+    },
+    {
+      "source": "common",
+      "target": "rare",
+      "weight": 0.601
+    },
+    {
+      "source": "common",
+      "target": "standard",
+      "weight": 0.565
+    },
+    {
+      "source": "artificial",
+      "target": "innovative",
+      "weight": 0.536
+    },
+    {
+      "source": "possible",
+      "target": "doubtful",
+      "weight": 0.65
+    },
+    {
+      "source": "possible",
+      "target": "impossible",
+      "weight": 0.628
+    },
+    {
+      "source": "possible",
+      "target": "probable",
+      "weight": 0.583
+    },
+    {
+      "source": "impossible",
+      "target": "doubtful",
+      "weight": 0.544
+    },
+    {
+      "source": "probable",
+      "target": "doubtful",
+      "weight": 0.732
+    },
+    {
+      "source": "probable",
+      "target": "certain",
+      "weight": 0.623
+    },
+    {
+      "source": "certain",
+      "target": "uncertain",
+      "weight": 0.54
+    },
+    {
+      "source": "uncertain",
+      "target": "confident",
+      "weight": 0.662
+    },
+    {
+      "source": "necessary",
+      "target": "mandatory",
+      "weight": 0.65
+    },
+    {
+      "source": "necessary",
+      "target": "optional",
+      "weight": 0.627
+    },
+    {
+      "source": "optional",
+      "target": "mandatory",
+      "weight": 0.64
+    },
+    {
+      "source": "legal",
+      "target": "illegal",
+      "weight": 0.834
+    },
+    {
+      "source": "ethical",
+      "target": "harmful",
+      "weight": 0.502
+    },
+    {
+      "source": "subjective",
+      "target": "constructive",
+      "weight": 0.513
+    },
+    {
+      "source": "constructive",
+      "target": "productive",
+      "weight": 0.503
+    },
+    {
+      "source": "positive",
+      "target": "negative",
+      "weight": 0.714
+    },
+    {
+      "source": "optimistic",
+      "target": "confident",
+      "weight": 0.619
+    },
+    {
+      "source": "optimistic",
+      "target": "pessimistic",
+      "weight": 0.592
+    },
+    {
+      "source": "anxious",
+      "target": "relaxed",
+      "weight": 0.546
+    },
+    {
+      "source": "creative",
+      "target": "innovative",
+      "weight": 0.554
+    },
+    {
+      "source": "traditional",
+      "target": "modern",
+      "weight": 0.578
+    }
+  ]
+}

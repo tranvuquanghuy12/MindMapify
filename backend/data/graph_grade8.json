@@ -1,0 +1,861 @@
+{
+  "nodes": [
+    {
+      "id": "arts and crafts club",
+      "label": "Arts and crafts club",
+      "type": "n",
+      "pronunciation": "/ɑːts ənd krɑːfts klʌb/",
+      "definition_vn": "câu lạc bộ thủ công mỹ nghệ",
+      "unit": "Unit 1",
+      "group": 3
+    },
+    {
+      "id": "be crazy about",
+      "label": "Be crazy about",
+      "type": "adj phr.",
+      "pronunciation": "/biː ˈkreɪzi əˈbaʊt/",
+      "definition_vn": "rất thích hoặc cuồng cái gì",
+      "unit": "Unit 1",
+      "group": 3
+    },
+    {
+      "id": "be fond of",
+      "label": "Be fond of",
+      "type": "adj phr.",
+      "pronunciation": "/biː fɒnd əv/",
+      "definition_vn": "thích cái gì",
+      "unit": "Unit 1",
+      "group": 3
+    },
+    {
+      "id": "be interested in",
+      "label": "Be interested in",
+      "type": "adj phr.",
+      "pronunciation": "/biː ˈɪntrəstɪd ɪn/",
+      "definition_vn": "quan tâm hoặc hứng thú với",
+      "unit": "Unit 1",
+      "group": 3
+    },
+    {
+      "id": "be keen on",
+      "label": "Be keen on",
+      "type": "adj phr.",
+      "pronunciation": "/biː kiːn ɒn/",
+      "definition_vn": "yêu thích",
+      "unit": "Unit 1",
+      "group": 3
+    },
+    {
+      "id": "connect",
+      "label": "Connect",
+      "type": "v",
+      "pronunciation": "/kəˈnekt/",
+      "definition_vn": "kết nối",
+      "unit": "Unit 1",
+      "group": 3
+    },
+    {
+      "id": "diy (do-it-yourself)",
+      "label": "DIY (Do-it-yourself)",
+      "type": "n",
+      "pronunciation": "/ˌdiː aɪ ˈwaɪ/",
+      "definition_vn": "việc tự làm đồ dùng",
+      "unit": "Unit 1",
+      "group": 3
+    },
+    {
+      "id": "messaging friends",
+      "label": "Messaging friends",
+      "type": "v phr.",
+      "pronunciation": "/ˈmesɪdʒɪŋ frendz/",
+      "definition_vn": "nhắn tin cho bạn bè",
+      "unit": "Unit 1",
+      "group": 3
+    },
+    {
+      "id": "origami",
+      "label": "Origami",
+      "type": "n",
+      "pronunciation": "/ˌɒrɪˈɡɑːmi/",
+      "definition_vn": "nghệ thuật gấp giấy",
+      "unit": "Unit 1",
+      "group": 3
+    },
+    {
+      "id": "surfing the net",
+      "label": "Surfing the net",
+      "type": "v phr.",
+      "pronunciation": "/ˈsɜːfɪŋ ðə net/",
+      "definition_vn": "lướt mạng",
+      "unit": "Unit 1",
+      "group": 3
+    },
+    {
+      "id": "canals",
+      "label": "Canals",
+      "type": "n",
+      "pronunciation": "/kəˈnælz/",
+      "definition_vn": "các kênh đào",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "catching fish",
+      "label": "Catching fish",
+      "type": "v phr.",
+      "pronunciation": "/ˈkætʃɪŋ fɪʃ/",
+      "definition_vn": "đánh bắt cá",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "cattle",
+      "label": "Cattle",
+      "type": "n",
+      "pronunciation": "/ˈkætl/",
+      "definition_vn": "gia súc",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "combine harvester",
+      "label": "Combine harvester",
+      "type": "n",
+      "pronunciation": "/kəmˈbaɪn ˈhɑːvɪstə(r)/",
+      "definition_vn": "máy gặt đập liên hợp",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "cultivate",
+      "label": "Cultivate",
+      "type": "v",
+      "pronunciation": "/ˈkʌltɪveɪt/",
+      "definition_vn": "trồng trọt hoặc canh tác",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "drying rice",
+      "label": "Drying rice",
+      "type": "v phr.",
+      "pronunciation": "/ˈdraɪɪŋ raɪs/",
+      "definition_vn": "phơi thóc/lúa",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "feeding pigs",
+      "label": "Feeding pigs",
+      "type": "v phr.",
+      "pronunciation": "/ˈfiːdɪŋ pɪɡz/",
+      "definition_vn": "cho lợn ăn",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "harvest time",
+      "label": "Harvest time",
+      "type": "n",
+      "pronunciation": "/ˈhɑːvɪst taɪm/",
+      "definition_vn": "mùa thu hoạch",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "herd",
+      "label": "Herd",
+      "type": "v",
+      "pronunciation": "/hɜːd/",
+      "definition_vn": "chăn dắt (gia súc)",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "hospitable",
+      "label": "Hospitable",
+      "type": "adj",
+      "pronunciation": "/hɒˈspɪtəbl/",
+      "definition_vn": "hiếu khách",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "load",
+      "label": "Load",
+      "type": "v",
+      "pronunciation": "/ləʊd/",
+      "definition_vn": "bốc hoặc xếp hàng (lên xe)",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "milking cows",
+      "label": "Milking cows",
+      "type": "v phr.",
+      "pronunciation": "/ˈmɪlkɪŋ kaʊz/",
+      "definition_vn": "vắt sữa bò",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "orchard",
+      "label": "Orchard",
+      "type": "n",
+      "pronunciation": "/ˈɔːtʃəd/",
+      "definition_vn": "vườn cây ăn quả",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "paddy field",
+      "label": "Paddy field",
+      "type": "n",
+      "pronunciation": "/ˈpædi fiːld/",
+      "definition_vn": "cánh đồng lúa",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "pick",
+      "label": "Pick",
+      "type": "v",
+      "pronunciation": "/pɪk/",
+      "definition_vn": "hái, nhặt",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "picturesque",
+      "label": "Picturesque",
+      "type": "adj",
+      "pronunciation": "/ˌpɪktʃəˈresk/",
+      "definition_vn": "đẹp như tranh vẽ",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "ploughing fields",
+      "label": "Ploughing fields",
+      "type": "v phr.",
+      "pronunciation": "/ˈplaʊɪŋ fiːldz/",
+      "definition_vn": "cày ruộng",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "poultry",
+      "label": "Poultry",
+      "type": "n",
+      "pronunciation": "/ˈpəʊltri/",
+      "definition_vn": "gia cầm",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "scenery",
+      "label": "Scenery",
+      "type": "n",
+      "pronunciation": "/ˈsiːnəri/",
+      "definition_vn": "phong cảnh",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "stretching",
+      "label": "Stretching",
+      "type": "adj",
+      "pronunciation": "/ˈstretʃɪŋ/",
+      "definition_vn": "trải dài",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "surrounded",
+      "label": "Surrounded",
+      "type": "adj",
+      "pronunciation": "/səˈraʊndɪd/",
+      "definition_vn": "bị bao quanh",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "unload",
+      "label": "Unload",
+      "type": "v",
+      "pronunciation": "/ˌʌnˈləʊd/",
+      "definition_vn": "dỡ hàng (xuống xe)",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "vast",
+      "label": "Vast",
+      "type": "adj",
+      "pronunciation": "/vɑːst/",
+      "definition_vn": "rộng lớn, bao la",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "well-trained",
+      "label": "Well-trained",
+      "type": "adj",
+      "pronunciation": "/ˌwel ˈtreɪnd/",
+      "definition_vn": "được đào tạo bài bản",
+      "unit": "Unit 2",
+      "group": 3
+    },
+    {
+      "id": "browse",
+      "label": "Browse",
+      "type": "v",
+      "pronunciation": "/braʊz/",
+      "definition_vn": "lướt (web hoặc mạng xã hội)",
+      "unit": "Unit 3",
+      "group": 3
+    },
+    {
+      "id": "bully",
+      "label": "Bully",
+      "type": "n",
+      "pronunciation": "/ˈbʊli/",
+      "definition_vn": "kẻ bắt nạt",
+      "unit": "Unit 3",
+      "group": 3
+    },
+    {
+      "id": "check",
+      "label": "Check",
+      "type": "v",
+      "pronunciation": "/tʃek/",
+      "definition_vn": "kiểm tra (thông báo)",
+      "unit": "Unit 3",
+      "group": 3
+    },
+    {
+      "id": "chess club",
+      "label": "Chess club",
+      "type": "n",
+      "pronunciation": "/tʃes klʌb/",
+      "definition_vn": "câu lạc bộ cờ",
+      "unit": "Unit 3",
+      "group": 3
+    },
+    {
+      "id": "concentrate",
+      "label": "Concentrate",
+      "type": "v",
+      "pronunciation": "/ˈkɒnsntreɪt/",
+      "definition_vn": "tập trung",
+      "unit": "Unit 3",
+      "group": 3
+    },
+    {
+      "id": "forum",
+      "label": "Forum",
+      "type": "n",
+      "pronunciation": "/ˈfɔːrəm/",
+      "definition_vn": "diễn đàn",
+      "unit": "Unit 3",
+      "group": 3
+    },
+    {
+      "id": "log on",
+      "label": "Log on",
+      "type": "phr. v",
+      "pronunciation": "/lɒɡ ɒn/",
+      "definition_vn": "đăng nhập",
+      "unit": "Unit 3",
+      "group": 3
+    },
+    {
+      "id": "pressure",
+      "label": "Pressure",
+      "type": "n",
+      "pronunciation": "/ˈpreʃə(r)/",
+      "definition_vn": "áp lực",
+      "unit": "Unit 3",
+      "group": 3
+    },
+    {
+      "id": "upload",
+      "label": "Upload",
+      "type": "v",
+      "pronunciation": "/ˌʌpˈləʊd/",
+      "definition_vn": "tải lên",
+      "unit": "Unit 3",
+      "group": 3
+    },
+    {
+      "id": "bamboo flute",
+      "label": "Bamboo flute",
+      "type": "n",
+      "pronunciation": "/ˌbæmˈbuː fluːt/",
+      "definition_vn": "sáo trúc",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "ethnic group",
+      "label": "Ethnic group",
+      "type": "n",
+      "pronunciation": "/ˈeθnɪk ɡruːp/",
+      "definition_vn": "nhóm dân tộc",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "five-colour sticky rice",
+      "label": "Five-colour sticky rice",
+      "type": "n",
+      "pronunciation": "/faɪv ˈkʌlə(r) ˈstɪki raɪs/",
+      "definition_vn": "xôi ngũ sắc",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "folk dance",
+      "label": "Folk dance",
+      "type": "n",
+      "pronunciation": "/fəʊk dɑːns/",
+      "definition_vn": "điệu múa dân gian",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "gardening",
+      "label": "Gardening",
+      "type": "n",
+      "pronunciation": "/ˈɡɑːdnɪŋ/",
+      "definition_vn": "công việc làm vườn",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "gong",
+      "label": "Gong",
+      "type": "n",
+      "pronunciation": "/ɡɒŋ/",
+      "definition_vn": "cái cồng, chiêng",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "livestock",
+      "label": "Livestock",
+      "type": "n",
+      "pronunciation": "/ˈlaɪvstɒk/",
+      "definition_vn": "vật nuôi (trang trại)",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "minority group",
+      "label": "Minority group",
+      "type": "n",
+      "pronunciation": "/maɪˈnɒrəti ɡruːp/",
+      "definition_vn": "nhóm dân tộc thiểu số",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "musical instrument",
+      "label": "Musical instrument",
+      "type": "n",
+      "pronunciation": "/ˈmjuːzɪkl ˈɪnstrəmənt/",
+      "definition_vn": "nhạc cụ",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "open fire",
+      "label": "Open fire",
+      "type": "n",
+      "pronunciation": "/ˈəʊpən ˈfaɪə(r)/",
+      "definition_vn": "bếp lửa mở",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "posts",
+      "label": "Posts",
+      "type": "n",
+      "pronunciation": "/pəʊsts/",
+      "definition_vn": "cột (nhà sàn)",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "raise",
+      "label": "Raise",
+      "type": "v",
+      "pronunciation": "/reɪz/",
+      "definition_vn": "chăn nuôi, nuôi dưỡng",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "rong house",
+      "label": "Rong house",
+      "type": "n",
+      "pronunciation": "/rɒŋ haʊs/",
+      "definition_vn": "nhà rông của đồng bào Tây Nguyên",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "staircase",
+      "label": "Staircase",
+      "type": "n",
+      "pronunciation": "/ˈsteəkeɪs/",
+      "definition_vn": "cầu thang",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "stilt house",
+      "label": "Stilt house",
+      "type": "n",
+      "pronunciation": "/stilt haʊs/",
+      "definition_vn": "nhà sàn",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "terraced fields",
+      "label": "Terraced fields",
+      "type": "n",
+      "pronunciation": "/ˈterəst fiːldz/",
+      "definition_vn": "ruộng bậc thang",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "weaving",
+      "label": "Weaving",
+      "type": "n",
+      "pronunciation": "/ˈwiːvɪŋ/",
+      "definition_vn": "việc đan, dệt",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "wooden statue",
+      "label": "Wooden statue",
+      "type": "n",
+      "pronunciation": "/ˈwʊdn ˈstætʃuː/",
+      "definition_vn": "tượng gỗ",
+      "unit": "Unit 4",
+      "group": 3
+    },
+    {
+      "id": "admire",
+      "label": "Admire",
+      "type": "v",
+      "pronunciation": "/ədˈmaɪə(r)/",
+      "definition_vn": "ngưỡng mộ, chiêm ngưỡng",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "bamboo pole",
+      "label": "Bamboo pole",
+      "type": "n",
+      "pronunciation": "/ˌbæmˈbuː pəʊl/",
+      "definition_vn": "cây nêu",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "blooming flowers",
+      "label": "Blooming flowers",
+      "type": "n",
+      "pronunciation": "/ˈbluːmɪŋ ˈflaʊəz/",
+      "definition_vn": "hoa đang nở",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "celebration",
+      "label": "Celebration",
+      "type": "n",
+      "pronunciation": "/ˌselɪˈbreɪʃn/",
+      "definition_vn": "sự tổ chức, lễ kỷ niệm",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "chase",
+      "label": "Chase",
+      "type": "v",
+      "pronunciation": "/tʃeɪs/",
+      "definition_vn": "xua đuổi, đuổi theo",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "communal house",
+      "label": "Communal house",
+      "type": "n",
+      "pronunciation": "/kəˈmjuːnl haʊs/",
+      "definition_vn": "đình làng",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "custom",
+      "label": "Custom",
+      "type": "n",
+      "pronunciation": "/ˈkʌstəm/",
+      "definition_vn": "phong tục",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "decorative items",
+      "label": "Decorative items",
+      "type": "n",
+      "pronunciation": "/ˈdekərətɪv ˈaɪtəmz/",
+      "definition_vn": "đồ trang trí",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "family reunion",
+      "label": "Family reunion",
+      "type": "n",
+      "pronunciation": "/ˈfæməli riːˈjuːniən/",
+      "definition_vn": "cuộc sum họp gia đình",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "festival goers",
+      "label": "Festival goers",
+      "type": "n",
+      "pronunciation": "/ˈfestɪvl ɡəʊəz/",
+      "definition_vn": "người đi trẩy hội",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "food offerings",
+      "label": "Food offerings",
+      "type": "n",
+      "pronunciation": "/fuːd ˈɒfərɪŋz/",
+      "definition_vn": "đồ cúng tế",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "martial arts",
+      "label": "Martial arts",
+      "type": "n",
+      "pronunciation": "/ˌmɑːʃl ˈɑːts/",
+      "definition_vn": "võ thuật",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "ornamental tree",
+      "label": "Ornamental tree",
+      "type": "n",
+      "pronunciation": "/ˌɔːnəˈmentl triː/",
+      "definition_vn": "cây cảnh",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "place",
+      "label": "Place",
+      "type": "v",
+      "pronunciation": "/pleɪs/",
+      "definition_vn": "đặt, để",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "pray",
+      "label": "Pray",
+      "type": "v",
+      "pronunciation": "/preɪ/",
+      "definition_vn": "cầu nguyện",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "reunion",
+      "label": "Reunion",
+      "type": "n",
+      "pronunciation": "/ˌriːˈjuːniən/",
+      "definition_vn": "sự sum họp",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "wedding ceremony",
+      "label": "Wedding ceremony",
+      "type": "n",
+      "pronunciation": "/ˈwedɪŋ ˈserəməni/",
+      "definition_vn": "hôn lễ",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "whale worship",
+      "label": "Whale worship",
+      "type": "n",
+      "pronunciation": "/weɪl ˈwɜːʃɪp/",
+      "definition_vn": "tục thờ cá Ông",
+      "unit": "Unit 5",
+      "group": 3
+    },
+    {
+      "id": "worship",
+      "label": "Worship",
+      "type": "v",
+      "pronunciation": "/ˈwɜːʃɪp/",
+      "definition_vn": "thờ cúng, tôn thờ",
+      "unit": "Unit 5",
+      "group": 3
+    }
+  ],
+  "links": [
+    {
+      "source": "arts and crafts club",
+      "target": "chess club",
+      "weight": 0.512
+    },
+    {
+      "source": "be fond of",
+      "target": "be keen on",
+      "weight": 0.525
+    },
+    {
+      "source": "be interested in",
+      "target": "be keen on",
+      "weight": 0.613
+    },
+    {
+      "source": "connect",
+      "target": "log on",
+      "weight": 0.576
+    },
+    {
+      "source": "surfing the net",
+      "target": "browse",
+      "weight": 0.59
+    },
+    {
+      "source": "cattle",
+      "target": "livestock",
+      "weight": 0.855
+    },
+    {
+      "source": "cattle",
+      "target": "milking cows",
+      "weight": 0.724
+    },
+    {
+      "source": "cattle",
+      "target": "herd",
+      "weight": 0.546
+    },
+    {
+      "source": "combine harvester",
+      "target": "harvest time",
+      "weight": 0.593
+    },
+    {
+      "source": "cultivate",
+      "target": "gardening",
+      "weight": 0.532
+    },
+    {
+      "source": "drying rice",
+      "target": "five-colour sticky rice",
+      "weight": 0.625
+    },
+    {
+      "source": "feeding pigs",
+      "target": "livestock",
+      "weight": 0.57
+    },
+    {
+      "source": "feeding pigs",
+      "target": "milking cows",
+      "weight": 0.503
+    },
+    {
+      "source": "load",
+      "target": "unload",
+      "weight": 0.736
+    },
+    {
+      "source": "milking cows",
+      "target": "livestock",
+      "weight": 0.644
+    },
+    {
+      "source": "picturesque",
+      "target": "scenery",
+      "weight": 0.615
+    },
+    {
+      "source": "ploughing fields",
+      "target": "terraced fields",
+      "weight": 0.602
+    },
+    {
+      "source": "poultry",
+      "target": "livestock",
+      "weight": 0.598
+    },
+    {
+      "source": "scenery",
+      "target": "place",
+      "weight": 0.551
+    },
+    {
+      "source": "bamboo flute",
+      "target": "bamboo pole",
+      "weight": 0.626
+    },
+    {
+      "source": "bamboo flute",
+      "target": "musical instrument",
+      "weight": 0.554
+    },
+    {
+      "source": "ethnic group",
+      "target": "minority group",
+      "weight": 0.668
+    },
+    {
+      "source": "rong house",
+      "target": "stilt house",
+      "weight": 0.582
+    },
+    {
+      "source": "stilt house",
+      "target": "communal house",
+      "weight": 0.501
+    },
+    {
+      "source": "celebration",
+      "target": "festival goers",
+      "weight": 0.502
+    },
+    {
+      "source": "family reunion",
+      "target": "reunion",
+      "weight": 0.886
+    },
+    {
+      "source": "whale worship",
+      "target": "worship",
+      "weight": 0.623
+    }
+  ]
+}

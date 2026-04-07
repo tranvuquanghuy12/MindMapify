@@ -1,0 +1,22 @@
+# Environments
+.env.*
+!.env.example
+
+# Node.js
+node_modules/
+dist/
+build/
+.npm
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
