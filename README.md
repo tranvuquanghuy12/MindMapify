@@ -1,40 +1,80 @@
-# Semantic Visual Explorer (SVE)
+<div align="center">
+<h1>MindMapify: Context-Aware Semantic Knowledge Mapping <br>for Visual Vocabulary Acquisition</h1>
 
-Chuyển đổi văn bản phẳng thành mạng lưới thực thể tương tác, được hỗ trợ bởi AI.
+**A Research & Development Project by Trần Vũ Quang Huy**
+<br>
+*Bridging the Gap between Plain Text and Interactive Knowledge Graphs in Modern Education*
 
-## Các tính năng
-- **Bản đồ ngữ nghĩa**: Tự động nhóm các khái niệm liên quan bằng cách sử dụng BERT embeddings.
-- **Trực quan hóa tương tác**: Phóng to, kéo thả và khám phá các liên kết trong bản đồ tri thức 2D.
-- **Flashcards trực quan**: Nhấp vào các nút (node) để tạo hình ảnh bằng AI (DALL-E 3) và xem định nghĩa.
-- **NER thời gian thực**: Trích xuất con người, địa điểm và các khái niệm chính từ văn bản bất kỳ.
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688.svg)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/React-Vite-61DAFB.svg)](https://reactjs.org/)
+[![BERT](https://img.shields.io/badge/NLP_Engine-BERT_Embeddings-fdc500.svg)](https://huggingface.co/)
+[![DALL-E 3](https://img.shields.io/badge/GenAI-DALL--E_3-black.svg)](https://openai.com/)
 
-## Cấu trúc dự án
-- **/backend**: Máy chủ FastAPI xử lý NLP và AI tạo ảnh.
-- **/frontend**: Ứng dụng React (Vite) cho giao diện người dùng tương tác.
-
-## 🚀 Cách khởi chạy (Dictionary Edition)
-
-Dự án hiện đã được chuyển đổi sang mô hình **Bản đồ Từ điển**, giúp học sinh dễ dàng khám phá các mối liên hệ giữa các từ vựng thông dụng.
-
-### 1. Chuẩn bị Dữ liệu (Backend)
-Để tạo ra các liên kết ngữ nghĩa giữa 200 từ vựng mẫu, anh cần chạy script tiền xử lý:
-- Truy cập thư mục: `cd backend`
-- Chạy script: `python process_dictionary.py`
-- *Lưu ý: Lần đầu tiên chạy sẽ mất khoảng 2-5 phút để hệ thống tải mô hình BERT (~400MB) về máy.*
-
-### 2. Chạy ứng dụng thông thường
-- **Backend**: `python main.py` (Cổng 8000)
-- **Frontend**: `npm run dev` (Cổng 5173)
-
-### 3. Cách sử dụng
-- Khi trang web tải xong, anh sẽ thấy một mạng lưới các từ vựng lơ lửng.
-- Dùng **Thanh Tìm Kiếm** bên dưới để gõ một từ bất kỳ (VD: "Sun", "Apple").
-- Nhấn vào từ đó để xem định nghĩa và hình ảnh minh họa do AI vẽ.
+</div>
 
 ---
 
-## 📦 Triển khai với Docker & AWS
-Dự án đã hỗ trợ sẵn Docker Compose cho việc triển khai nhanh chóng:
-- Chạy: `docker-compose up --build`
-- Tham khảo [AWS Guide](file:///C:/Users/My%20Computer/.gemini/antigravity/brain/fad76f5d-e423-49ad-ba4f-99f6fdcec198/aws_deployment_guide.md) để đưa sản phẩm lên mây.
-"# MindMapify" 
+## 📌 Project Overview
+
+**MindMapify** is an advanced AI-powered Semantic Knowledge Mapping framework designed for **Visual-driven Language Exploration**. It transforms static vocabulary lists into dynamic, interactive 2D networks, enabling users to explore semantic relationships between English words effortlessly.
+
+### 🔍 The Problem: Rote Memorization
+In traditional language learning, vocabulary acquisition often suffers from:
+1. **Lack of Context**: Words are learned in isolation, ignoring the rich semantic connections between related concepts.
+2. **Poor Retention**: Text-heavy flashcards fail to engage visual learners, leading to a drop in long-term memory retention.
+
+### 💡 The MindMapify Solution
+Our system introduces a **Semantic Entity Discovery engine** combined with **Generative Multi-modal Interaction**:
+- **Semantic Clustering**: Automatically groups related concepts using BERT-based embeddings to establish high-level correlations between words.
+- **Generative Visual Synthesis**: Utilizes DALL-E 3 to synthesize dynamic, visually striking flashcards and contextual illustrations on demand.
+- **Interactive Knowledge Graph**: Provides a fluid, draggable 2D workspace where users can visually trace the latent semantic dependencies between vocabulary nodes.
+
+---
+
+## 🛠️ Tech Stack & Architecture
+- **NLP Engine**: BERT Embeddings, Real-time Named Entity Recognition (NER) via spaCy.
+- **Generative AI**: OpenAI DALL-E 3 for multi-modal visual synthesis.
+- **Backend Infrastructure**: FastAPI (Python) optimized for asynchronous AI inference and vector processing.
+- **Frontend Ecosystem**: React (Vite) for high-performance, real-time graph rendering.
+
+---
+
+## 🚀 Execution Guide
+
+### 1. Data Preparation (Semantic Embeddings)
+To generate the initial semantic correlations between the dictionary vocabulary:
+```bash
+cd backend
+# Note: The first execution downloads the BERT model weights (~400MB)
+python process_dictionary.py
+```
+
+### 2. Service Initialization
+Launch the core inference API and the interactive visualization platform:
+```bash
+# Terminal 1: Backend Server (Port 8000)
+cd backend
+python main.py
+
+# Terminal 2: Frontend Environment (Port 5173)
+cd frontend
+npm run dev
+```
+
+### 3. Docker Deployment (Cloud Ready)
+Deploy the entire microservice architecture using Docker Compose:
+```bash
+docker-compose up --build
+```
+
+---
+
+## 📁 Repository Organization
+- `backend/nlp_engine.py`: Core implementation of the BERT-based Semantic Graph extraction.
+- `backend/image_gen.py`: Generative synthesis module interfacing with DALL-E 3.
+- `backend/process_dictionary.py`: Preprocessing logic for dictionary datasets.
+- `frontend/src/`: React components for handling Context-Aware Graph Rendering.
+
+---
+*Developed as a modern solution for EdTech and Interactive Learning. For collaboration or inquiries, please reach out via GitHub or LinkedIn.*
